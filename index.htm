@@ -6,7 +6,15 @@
 <head>
     <title>EMRG - Emergency Measures Radio Group</title>
     <link rel="stylesheet" type="text/css" href="shared/style.css"/>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
     <script type="text/javascript" src="shared/corefunctions.js"></script>
+
+
+	<script type="text/javascript">
+		// format of the following date is (YYYY, MM, DD, HH, MM)
+		window.onload=setEventReminder(2008, 11, 29, 09, 00);
+	</script>
+
 </head>
 
 <body>
@@ -33,52 +41,58 @@ humanitarian response organizations that do not have a radio system,
 lack capacity on their system, or normally rely on regular phones and cell phones.
 </p>
 
+<script type="text/javascript">
+	if  (eventDate!="") {
+		document.write('<p style="background: lightblue; font-size:120%; font-style:italic; font-weight: bold; text-align: center;">')
+ 		document.write('The <a href="gm_notice.htm">next EMRG meeting</a> is ')
 
-<!--
+		if  (numberOfDaysToEvent > 1) {
+			document.write("in " + numberOfDaysToEvent + " days -- ")
+		}
+		document.write(eventDate)
+		document.write("!</p>")
 
-<table cellpadding="5" cellspacing="5" width="75%" align="center">
-	<tr>
-		<td style="background: red; align="center"">
-			<p style="font-size:300%; text-color=white;text-align: center;">
-			T h i s   W e e k e n d !
-			</p>
-
-			<p style="font-size:120%; text-align: center;">
-			The <b>Fall EMRG meeting</b> will be on Sept 30, 9:00AM-Noon.
-			</p>
-
-			<p style="font-size:120%; text-align: center;">
-			Please visit the <a href="meetings.htm">Meetings</a> page for more information.
-			</p>
-		</td>
-	</tr>
-</table>
-
--->
+	}
+</script>
 
 
 <table cellpadding="25" cellspacing="25">
-	<col width="0.5*"/>
-	<col width="0.5*"/>
+	<col width="50%"/>
+	<col width="50%"/>
 	<tr>
-		<td> <!-- --> <td style="background: orange;"> <-- -->
+		<td style="background: orange;">
 			To learn how the <strong>Emergency Measures Radio Group can assist you</strong>, please
 			<a href="contactus.htm">contact us</a> and visit our <a href="services.htm">Services Web Page</a>.
 		</td>
 
-		<td> <!-- --> <td style="background: orange;"> <-- -->
+		<td style="background: orange;">
 			To participate in the <strong>activities and events of the Emergency Measures Radio Group</strong>,
 			please <a href="contactus.htm">contact us</a> and join us
-			at our next <a href="meetings.htm">General Meeting</a>.
+			at our next <a href="meeting_general.htm">General Meeting</a>.
 		</td>
 	</tr>
 </table>
 
 
 
-<div style="font-style:italic; font-weight: bold; color: brown; text-align: center;">
+<div style="font-style:italic; font-weight: bold; color: Maroon; text-align: center;">
 <br/>Everyone is welcome -- please pass the message on to other amateurs!
 </div>
+
+
+
+
+
+
+
+<!-- html does not pass validator yet
+ <p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+        src="shared/valid-xhtml11.png"
+        alt="Valid XHTML 1.1" height="31" width="88" /></a>
+  </p>
+-->
+
 
 
 

@@ -43,7 +43,7 @@
   	font-family:	Arial, Helvetica, sans-serif;
   	font-style:	normal;
   	font-weight:	bold;
-  	color:		#A52A2A; /* Brown */
+  	color:		Maroon;
  	background:	white;
 	text-align: 	center;
   	text-transform:	uppercase;
@@ -53,7 +53,7 @@
 
   h2
   {
-  	color:		#A52A2A; /* Brown */
+  	color:		Maroon;
  	background:	white;
   	font-family:	Arial, Helvetica, sans-serif;
   	font-style:	normal;
@@ -63,7 +63,7 @@
 
   h3
   {
-  	color:		#A52A2A; /* Brown */
+  	color:		Maroon;
  	background:	white;
   	font-family:	Arial, Helvetica, sans-serif;
   	font-style:	italic;
@@ -172,53 +172,6 @@
 	text-decoration:none;
   }
 
-  /********** LEFT NAVIGATION MENU **********/
-  div#left-nav{
-	color:		black;
-	background-color:#eae4d0;
-	float:		left;
-	width:		165px;
-	margin:		5px 25px 5px 5px;
-	border:		1px solid #9e9272;
-	display:	inline;
-  }
-
-  ul.nav-list{
-	color:		black;
-	background-color:#c8b98f;
-	list-style-type:none;
-	width:		165px;
-	margin:		0px;
-	padding:	0px;
-	text-align:	center;
-	line-height:	0em;
-  }
-
-  ul.nav-list-secondary{
-	color:		black;
-	background-color:#eae4d0;
-	list-style-type:none;
-	margin:		0px;
-	padding:	5px;
-	text-align:	left;
-	font:		normal .8em/1.4em Verdana, 'Bitstream Vera Sans', Helvetica, Tahoma, Arial, sans-serif;
-  }
-
-  li.nav-list-secondary{
-	padding:	5px 0px;
-	border-bottom:	1px solid #9e9272;
-	margin:		0px;
-  }
-
-  li.nav-list-secondary:last-child{
-	padding:	5px 0px;
-	border-bottom:	0px solid #9e9272;
-  }
-
-  div.left-nav-container{ /* For when a tertiary navigation menu is used. */
-	width:		197px;
-	float:		left;
-  }
 
   /* -------------------------------------------------------- */
   /* Main Text Area                                           */
