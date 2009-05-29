@@ -19,34 +19,47 @@
 
 <h1>Search</h1>
 
-<p>
-	The Emergency Measures web site has recently undergone a major overhaul.
-	As a result, some of the web pages returned by the search
-	may not be found until they have been re-indexed by the Search Engine.
-</p>
+
+<!-- SiteSearch Google -->
 
 <p style="text-align: center;">
-<!-- Site search from MSN -->
-<form method="get" action="http://search.msn.com/results.aspx">
-	<input type="hidden" name="cp" value="1252"/>
-	<input type="hidden" name="FORM" value="FREESS"/>
+<FORM method=GET action="http://www.google.com/search">
 
-	<table bgcolor="#FFFFFF">
+	<input type=hidden name=ie value=UTF-8>
+	<input type=hidden name=oe value=UTF-8>
+
+	<TABLE bgcolor="#FFFFFF">
 		<tr>
 			<td>
-				<a href="http://search.msn.com/"><img src="http://search.msn.com/s/affillogo.gif" border="0" ALT="MSN Search"/></a>
+				<A HREF="http://www.google.com/"><IMG SRC="http://www.google.com/logos/Logo_40wht.gif" border="0" ALT="Google"></A>
 			</td>
 			<td>
-				<input type="text" name="q" size="30" />
-				<input type="submit" value="Search Site"/>
-				<input type="hidden" name="q1" value="site:www.emrg.ca"/>
+				<input type=hidden name=domains value="www.emrg.ca">
+				<INPUT TYPE=text name=q size=31 maxlength=255 value="">
+			</td>
+			<td>
+				<INPUT type=submit name=btnG VALUE="Google Search">
 			</td>
 		</tr>
-	</table>
+		<tr>
+			<td>
+			</td>
+			<td>
+				<font size=-1>
+				<input type=radio name=sitesearch value="">Search: WWW
+				<input type=radio name=sitesearch value="www.emrg.ca" checked>Search: www.emrg.ca
+				</font>
+			</td>
+			<td>
+			</td>
+		</tr>
+	</TABLE>
 
-</form>
-<!-- Site Search from MSN -->
+</FORM>
 </p>
+
+<!-- SiteSearch Google -->
+
 
 
 </body>
