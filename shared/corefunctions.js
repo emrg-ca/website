@@ -162,9 +162,13 @@ function menu_en() {
 	document.write('            <a class="menubar" target="_top" href="' + translated_href + '">Fran&ccedil;ais</a> | ');
 	document.write('            <a class="menubar" href="index.htm">Home</a> | ');
 	document.write('            <a class="menubar" href="contactus.htm">Contact Us</a> | ');
-	document.write('            <a class="menubar" href="services.htm">Services</a> | ');
-	document.write('            <a class="menubar" href="meeting_general.htm">Meetings</a> | ');
-	document.write('            <a class="menubar" href="external_url.htm?http://www.weatheroffice.ec.gc.ca/city/pages/on-118_metric_e.html">Weather Forecast</a> | ');
+	
+	document.write('            <a class="menubar" href="aboutus.htm">About Us</a> | ');
+	document.write('            <a class="menubar" href="training.htm">Training</a> | ');
+	document.write('            <a class="menubar" href="operations.htm">Operations</a> | ');
+	document.write('            <a class="menubar" href="technical.htm">Technical</a> | ');
+	document.write('            <a class="menubar" href="news.htm">News and Events</a> | ');
+
 	document.write('            <a class="menubar" href="library.htm">Library</a> | ');
 	document.write('            <a class="menubar" href="search.htm">Search</a>');
 	document.write('       	</div>');
@@ -175,10 +179,14 @@ function menu_fr() {
 	document.write('            <a class="menubar" target="_top" href="' + translated_href + '">English</a> | ');
 	document.write('            <a class="menubar" target="_top" href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.emrg.ca%2Findex.htm&langpair=en%7Cfr&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">&Agrave; la maison</A> | ');
 	document.write('            <a class="menubar" target="_top" href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.emrg.ca%2Fcontactus.htm&langpair=en%7Cfr&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">Contactez-Nous</A> | ');
-	document.write('            <a class="menubar" target="_top" href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.emrg.ca%2Fservices.htm&langpair=en%7Cfr&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">Services</A> | ');
-	document.write('            <a class="menubar" target="_top" href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.emrg.ca%2Fmeeting_general.htm&langpair=en%7Cfr&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">R&eacute;unions</A> | ');
-	document.write('            <a class="menubar" href="external_url.htm?http://www.weatheroffice.ec.gc.ca/city/pages/on-118_metric_f.html">pr&eacute;visions m&eacute;t&eacute;orologiques</a> | ');
-	document.write('            <a class="menubar" target="_top" href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.emrg.ca%2Flibrary.htm&langpair=en%7Cfr&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">Biblioth&egrave;que</A> | ');
+
+	document.write('            <a class="menubar" target="_top" href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.emrg.ca%2Faboutus.htm&langpair=en%7Cfr&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">Qui sommes-nous?</A> | ');
+	document.write('            <a class="menubar" target="_top" href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.emrg.ca%2Ftraining.htm&langpair=en%7Cfr&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">Formation</A> | ');
+	document.write('            <a class="menubar" target="_top" href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.emrg.ca%2Foperations.htm&langpair=en%7Cfr&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">Op&eacute;rations</A> | ');
+
+	document.write('            <a class="menubar" target="_top" href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.emrg.ca%2Ftechnical.htm&langpair=en%7Cfr&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">Technique</A> | ');
+	document.write('            <a class="menubar" target="_top" href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.emrg.ca%2Fnews.htm&langpair=en%7Cfr&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">Actualit&eacute;s et &eacute;v&eacute;nements</A> | ');
+
 	document.write('            <a class="menubar" target="_top" href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.emrg.ca%2Fsearch.htm&langpair=en%7Cfr&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">Recherche</A>');
 	document.write('       	</div>');
 }
