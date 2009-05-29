@@ -1,0 +1,388 @@
+<VisioDocument xmlns="urn:schemas-microsoft-com:office:visio">
+	<DocumentProperties>
+		<Title>EMRG Index Page</Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="6" Name="4 network" NameU="Packet Network">
+			<Shapes>
+				<Shape ID="1" UniqueID="{988D4AB6-B75A-446E-B8EE-658D76592F32}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="MM">5.059055118110236</PinX>
+						<PinY Unit="MM">28.996062992125978</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{42A79E8C-764C-4035-9361-8772807981B6}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="MM">1.385225284339456</PinX>
+						<PinY Unit="MM">29.011985081382150</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{B0AABD6B-22E0-4147-A4E2-390D9E8A1439}" Name="Sheet.3" NameU="Sheet.3">
+					<XForm>
+						<PinX Unit="MM">8.995910856405047</PinX>
+						<PinY Unit="MM">29.011975065616788</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{910536DC-6BA0-4C0C-B3EF-1180515C35DE}" Name="Sheet.4" NameU="Sheet.4">
+					<Text>Emergency Measures Radio Group
+Ottawa ARES
+- Two Names, One Group, One Purpose -
+
+Service de liaison radio en cas d'urgence</Text>
+					<XForm>
+						<PinX Unit="MM">5.236220472440945</PinX>
+						<PinY Unit="MM">28.996062992125978</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{8CA992DC-9F7E-42EB-BB69-95C81EF54EC9}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>Volunteer Emergency Radio Communications -Serving Ottawa Canada</Text>
+					<XForm>
+						<PinX Unit="MM">5.039370078740158</PinX>
+						<PinY Unit="MM">28.111329833770775</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>City of Ottawa Home Page</HLURL:Description>
+										<HLURL:Address>http://www.ottawa.ca</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.ottawa.ca</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="6" UniqueID="{18324D69-E57B-49EE-A1FC-D6EE5BD16CAD}" Name="Sheet.6" NameU="Sheet.6">
+					<Text>EMRG PACKET NETWORK</Text>
+					<XForm>
+						<PinX Unit="MM">5.029527559055119</PinX>
+						<PinY Unit="MM">27.775590551181097</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{3E93541E-1CD4-48D8-AA25-6596C56005EE}" Name="Sheet.8" NameU="Sheet.8">
+					<Text>This page shows the actual network that EMRG currently has working. As the network changes, this page will be updated.</Text>
+					<XForm>
+						<PinX Unit="MM">4.999999999999999</PinX>
+						<PinY Unit="MM">27.323928258967626</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{86827616-CA43-4B8C-97AF-9A81F8A8FBE2}" Name="Sheet.9" NameU="Sheet.9">
+					<Text>CURRENT NETWORK</Text>
+					<XForm>
+						<PinX Unit="MM">1.948818897637795</PinX>
+						<PinY Unit="MM">26.791338582677163</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{310A1F32-E72F-4CE0-950C-218261275F5D}" Name="Sheet.10" NameU="Sheet.10">
+					<Text>The current EMRG Network is a basic network implementation to allow testing of different software and configuration ideas. Anyone wanting to test their packet equipment can use the network to ensure their equipment is working.</Text>
+					<XForm>
+						<PinX Unit="MM">5.027559055118110</PinX>
+						<PinY Unit="MM">26.338582677165356</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{2C1A04DD-C2AF-437A-9AF9-D644D73804D1}" Name="Sheet.11" NameU="Sheet.11">
+					<Text>Permanent Stations
+VE3OCE - Digipeater
+VE3OCE-1 - Ops Position 1
+VE3OCE-2 - Ops Position 2
+VE3OCE-11 - City Hall EOC
+VE3BQP-7 - Home Station
+VE3BQP-1 - Telpac Gateway</Text>
+					<XForm>
+						<PinX Unit="MM">1.771653543307087</PinX>
+						<PinY Unit="MM">24.704724409448815</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{BB25CBB1-1F0F-4825-BF02-FCF7C08B0A16}" Name="Sheet.12" NameU="Sheet.12">
+					<Text>Callsign = VE3OCE
+Alias = EMRG</Text>
+					<XForm>
+						<PinX Unit="MM">4.409448818897635</PinX>
+						<PinY Unit="MM">22.303149606299211</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{317EEF44-BF78-4A8A-971A-A56CD512E918}" Name="Sheet.7" NameU="Sheet.7">
+					<Text>BEACONS</Text>
+					<XForm>
+						<PinX Unit="MM">1.919291338582679</PinX>
+						<PinY Unit="MM">18.444881889763778</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{A0F8FCBE-BC1C-4017-BA6F-C20F66402EBE}" Name="Sheet.14" NameU="Sheet.14">
+					<Text>Beacons are automated transmissions which can be used to send information or identify specific stations.
+There are two beacons on the EMRG network;
+        
+        VE3OCE-2: Sends a text message beacon every 5 minutes   - 
+			EMRG-Ottawa ARES
+			Local Emergency Packet Network
+			145.030MHz - Ottawa Canada
+			If you want to operate a BBS, gateway, or beacon, 
+			we encourage you to please move to another frequency.
+			ve3oce@rac.ca   www.emrg.ca
+
+
+        VE3OCE:    Sends a text message beacon every 30 minutes - 
+			Emergency Measures Radio Group - EMRG (Ottawa ARES)
+			Emergency Packet Network  - 145.030 MHZ
+			Digipeater: VE3OCE   Alias = EMRG
+			Telpac Node: VE3BQP-1  (www.winlink.org for info)
+			Comm Centre Ops Positions: VE3OCE-1,  VE3OCE-2
+			Questions: ve3oce@rac.ca
+
+In an emergency, the beacons will be turned off to avoid needless data collisions.</Text>
+					<XForm>
+						<PinX Unit="MM">4.847440944881892</PinX>
+						<PinY Unit="MM">16.488161636045497</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{79090933-7F79-4AAE-99EB-13659942B13B}" Name="Sheet.15" NameU="Sheet.15">
+					<Text>SOFTWARE</Text>
+					<XForm>
+						<PinX Unit="MM">2.003937007874016</PinX>
+						<PinY Unit="MM">14.507874015748033</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{51D35298-9670-4598-83C9-4AAF36474FEF}" Name="Sheet.16" NameU="Sheet.16">
+					<Text>DIGIPEATER</Text>
+					<XForm>
+						<PinX Unit="MM">1.870078740157481</PinX>
+						<PinY Unit="MM">21.988188976377952</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{35BD3355-8841-4EAF-854F-758C5F4AF58F}" Name="Sheet.17" NameU="Sheet.17">
+					<Text>When two packet stations cannot communicate directly, they can use a Digipeater (Digital Repeater) or a Node to relay through, to connect to each other. The Digipeater or node must be able to communicate with both stations, listening to one station and then repeating the message for the other station to hear. There are differences between how a Digipeater and a node function, but they both provide a similar  capability.
+
+EMRG has established a Digipeater called VE3OCE. The digipeater is not a station that can be connected to. When connecting to a station that cannot be heard directly, the user adds a VIA statement to their connect command. For example if VE3BQP-7 wants to communicate directly with VE3OCE-11, the following command would be used;  c ve3oce-11
+
+If VE3OCE-11 does not respond, then VE3BQP-7 can use the digipeater to connect. The connect command would now look like this; c ve3oce-11 v ve3oce. The v stands for via, meaning that VE3BQP-7 is trying to connect to VE3OCE-11, via the digipeater VE3OCE. The digipeater has an Alias, EMRG, which can be used in place of the callsign VE3OCE. The connect command using the alias would be;      c ve3oce-11 v emrg</Text>
+					<XForm>
+						<PinX Unit="MM">4.948818897637795</PinX>
+						<PinY Unit="MM">20.334645669291337</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{E3A61865-BD7F-419B-ACDB-5406677D7D26}" Name="Sheet.19" NameU="Sheet.19">
+					<Text>AGW Packet Engine Pro
+The EMRG Communications Centre is located in a dedicated room at Fire Dispatch. This is the main communications site for EMRG and is the main site for the packet network. There is only 1 TNC on 145.030 MHz, but several users of that TNC. The TNC is shared using AGW Packet Engine Pro, which is installed on the same computer as the TNC. AGWPE Pro communicates through the TNC and creates virtual TNCs within the computer that end user software packages can use. The packet terminal software communicates through a dedicated virtual TNC, with it’s own unique callsign, so it looks like a station with a dedicated TNC and radio.
+
+Each TNC is a port in AGWPE Pro and there can be multiple ports (TNCs) for different applications (i.e. Packet and APRS). There is also a loopback port, which allows users to connect to each other over the LAN, without going out on the radio. This is useful if two users are located on different floors.</Text>
+					<XForm>
+						<PinX Unit="MM">5.082677165354331</PinX>
+						<PinY Unit="MM">12.619203849518817</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{FEFAEA50-AB2A-4FC9-B491-11447A9298CF}" Name="Sheet.20" NameU="Sheet.20">
+					<Text>There are several individual pieces of software running on the EMRG packet network. The software is either end user packet terminal software or network software.</Text>
+					<XForm>
+						<PinX Unit="MM">5.074803149606300</PinX>
+						<PinY Unit="MM">14.056813210848647</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{22E6E833-E2A9-496A-893C-36C4EA3FEA42}" Name="Sheet.13" NameU="Sheet.13">
+					<Text>WinPack
+WinPack is a packet terminal program which can be used on a computer directly connected to a TNC or on a computer that has AGWPE Pro. The program is focused on BBS connectivity, which EMRG is not using, but the program supports file transfer and keyboard to keyboard text communications as well.
+
+WinPack can be used for the first computer in the EMRG Communications Centre, running on the same PC as AGWPE Pro and it can be used on single TNC stations such as the Red Cross or the portable Shelter stations. The objective is to have a common standard used as often as possible.</Text>
+					<XForm>
+						<PinX Unit="MM">5.086614173228346</PinX>
+						<PinY Unit="MM">8.160542432195983</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{5772997E-E238-4A5A-ABA3-FF0CA83FADBC}" Name="Sheet.21" NameU="Sheet.21">
+					<Text>AGWDigi
+The digipeater, VE3OCE, operates on the same computer as AGW Packet Engine Pro and works with AGWPE Pro to share the single TNC. The AGWDigi software was written by the same person that wrote AGWPE Pro. The digipeater simply takes packets that come in addressed to it and repeats them back out on the same port. There is no gateway function to link between ports.</Text>
+					<XForm>
+						<PinX Unit="MM">5.082677165354331</PinX>
+						<PinY Unit="MM">10.847550306211732</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{C325B524-A688-4F96-94C3-7B5D8C64FAA8}" Name="Sheet.22" NameU="Sheet.22">
+					<Text>AGWTerm-TCP
+AGWTerm-TCP is a packet terminal program which can connect to an AGWPE Pro virtual TNC across a LAN. The software was written by the same person who wrote AGWPE Pro. There are two other packet terminal packages that can work with AGWPE Pro, but only if they are installed  on the same PC as AGWPEPro. AGWTerm-TCP is the only packet terminal program found so far that can communicate across a computer network to AGWPEPro.</Text>
+					<XForm>
+						<PinX Unit="MM">5.082677165354331</PinX>
+						<PinY Unit="MM">9.636920384951889</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{2013A803-CE85-476F-9C72-DF6737A1158A}" Name="Sheet.23" NameU="Sheet.23">
+					<Text>Red Cross radio system is still Under Construction</Text>
+					<XForm>
+						<PinX Unit="MM">7.677165354330708</PinX>
+						<PinY Unit="MM">23.622594050743658</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="25" UniqueID="{9ADBB6FD-514B-4E1D-9731-374D235F2D68}" Name="Sheet.25" NameU="Sheet.25">
+					<Text>Hardware</Text>
+					<XForm>
+						<PinX Unit="MM">2.023622047244095</PinX>
+						<PinY Unit="MM">6.949912510936141</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="26" UniqueID="{BB15E980-2E5F-4406-98D6-ADA27FAD3EE1}" Name="Sheet.26" NameU="Sheet.26">
+					<Text>The current network has been built from parts that were already owned by EMRG or have been donated for this project. There have been some issues with the versions of TNC firmware, where some TNCs are old enough that they do not support KISS, so they cannot be used with AWG Packet Engine.
+
+TNC
+While there are TNCs that support Node functions, Personal BBS and other value add capabilities, the current EMRG packet network does not require them. The only TNC feature that is important, is KISS mode for the TNCs that are used with AGWPE Pro.
+
+The TNC at the EMRG Communications Centre, is a AEA TimeWave PK12 which was donated to EMRG. 
+
+The EOC is in transition, currently using a Kantronics KPC-2, but soon to be using a Kantronics KPC-3 with AGW Packet Engine. There is one portable system at this time, with a Kantronics KPC-2 and the Red Cross will be using a AEA TimeWave PK-88.
+
+EMRG also has a AEA PK900, a dual port TNC which can operate as two independent TNCs through a common serial RS232 computer connection. This TNC can be used with AGWPE Pro on both ports, one for 145.030 MHz and one for testing a dedicated packet link to the Emergency Operations Centre on the 220 Mhz band for example. The TNC can also be used with a VHF and UHF radio to provide a crossband gateway.
+
+RADIOS
+There are a mix of radios used by EMRG for packet. The main 145.030 MHz station at the EMRG Communications Centre is a Motorola Radius M120, 2 channel mobile. The other station at this location is a Kenwood tri-band TM-742A mobile. It is used for packet because it has 220 MHz and 440 MHz, which allows testing of a parallel  dedicated packet link to the EOC. There is a second Motorola Radius at the EMRG Communications Centre, for use on APRS.
+
+The Emergency Operations Centre at City hall, is also using a Kenwood tri-band radio. The portable system is using a Motorola Radius M120 and the Red Cross is using a Kenwood TM-2530 VHF mobile.</Text>
+					<XForm>
+						<PinX Unit="MM">5.074803149606300</PinX>
+						<PinY Unit="MM">3.898731408573937</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="24" UniqueID="{255ABD38-CBE0-41D8-9A05-CADBBEB23892}" Name="Sheet.24" NameU="Sheet.24">
+					<XForm>
+						<PinX Unit="MM">1.456692913385827</PinX>
+						<PinY Unit="MM">0.334645669291340</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Home Page</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="28" UniqueID="{0CD4208F-5C4D-4ABE-8CDC-C637C45D664C}" Name="Sheet.28" NameU="Sheet.28">
+					<Text>HOME</Text>
+					<XForm>
+						<PinX Unit="MM">0.988293963254593</PinX>
+						<PinY Unit="MM">0.214881889763779</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="29" UniqueID="{63E12B22-947F-47B0-86AC-60619D3297A1}" Name="Sheet.29" NameU="Sheet.29">
+					<XForm>
+						<PinX Unit="MM">3.356351706036745</PinX>
+						<PinY Unit="MM">0.324375213967821</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Packet Radio Home Page</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca/packet/packet_index.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca/packet/packet_index.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="30" UniqueID="{98CD03AD-30AB-4794-B3FB-25B15AEEC0A6}" Name="PC" NameU="PC" Master="5">
+					<XForm>
+						<PinX Unit="MM">0.157480314960630</PinX>
+						<PinY Unit="MM">0.225950017117425</PinY>
+					</XForm>
+					<Prop ID="4" Name="ID" NameU="ID">
+						<Value></Value>
+						<Label>ID</Label>
+					</Prop>
+					<Prop ID="5" Name="Name" NameU="Name">
+						<Value></Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="6" Name="Department" NameU="Department">
+						<Value></Value>
+						<Label>Department</Label>
+					</Prop>
+					<Prop ID="7" Name="BelongsTo" NameU="BelongsTo">
+						<Value></Value>
+						<Label>Belongs to</Label>
+					</Prop>
+					<Prop ID="8" Name="Modify" NameU="Modify">
+						<Value></Value>
+						<Label>Modified</Label>
+					</Prop>
+					<Prop ID="9" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset number</Label>
+					</Prop>
+					<Prop ID="10" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial number</Label>
+					</Prop>
+					<Prop ID="11" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="12" Name="ModelID" NameU="ModelID">
+						<Value></Value>
+						<Label>Model ID or tag</Label>
+					</Prop>
+					<Prop ID="13" Name="ModelName" NameU="ModelName">
+						<Value></Value>
+						<Label>Model name</Label>
+					</Prop>
+					<Prop ID="14" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product description</Label>
+					</Prop>
+					<Prop ID="15" Name="PurchaseDate" NameU="PurchaseDate">
+						<Value></Value>
+						<Label>Purchase date</Label>
+					</Prop>
+					<Prop ID="20" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="21" Name="BaseElevation" NameU="BaseElevation">
+						<Value></Value>
+						<Label>Base elevation</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="37" UniqueID="{AA95E7F7-56EB-4EC2-8631-5D8B7D5FAD7A}" Name="Sheet.37" NameU="Sheet.37">
+					<Text>PACKET</Text>
+					<XForm>
+						<PinX Unit="MM">0.712598425196850</PinX>
+						<PinY Unit="MM">0.215441819772528</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="38" UniqueID="{E8E1D889-EF6F-4B4D-B197-C0AB2CC173B7}" Name="Sheet.38" NameU="Sheet.38">
+					<Text>Temporarily
+Off The Air</Text>
+					<XForm>
+						<PinX Unit="MM">7.881452318460195</PinX>
+						<PinY Unit="MM">24.388615485564301</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{D495AC20-F9EC-42F3-A0B5-49A4453F303B}" Name="Sheet.18" NameU="Sheet.18">
+					<XForm>
+						<PinX Unit="MM">5.300000000000001</PinX>
+						<PinY Unit="MM">24.311023622047244</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="39" UniqueID="{8BD97FA6-511A-49AC-BCEE-8ED2C78E65A3}" Name="Sheet.39" NameU="Sheet.39">
+					<Text>FREQUENCY: 145.030 MHz		CONNECTION SPEED: 1200 baud</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173228345</PinX>
+						<PinY Unit="MM">22.828029308836392</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

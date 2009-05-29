@@ -1,0 +1,325 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Generator" content="Microsoft Word 97">
+   <meta name="GENERATOR" content="Mozilla/4.76 [en] (Win95; U) [Netscape]">
+   <meta name="Author" content="Peter Gamble VE3BQP">
+   <meta name="KeyWords" content="EMRG, ARES, Gel Cell, charger">
+   <title>Power Supply Gel Cell Charger</title>
+</head>
+<body link="#0000FF" vlink="#800080">
+&nbsp;
+<table BORDER CELLPADDING=7 WIDTH="100%" >
+<tr>
+<td VALIGN=TOP WIDTH="24%">
+<center><img SRC="../../image_files/emrgredlogo.jpg" NOSAVE height=89 width=131></center>
+</td>
+
+<td VALIGN=TOP WIDTH="54%">
+<center><b><font face="Arial"><font size=+1>Emergency Measures Radio Group</font></font></b>
+<p><b><font face="Arial"><font size=+1>Ottawa ARES</font></font></b>
+<p><font face="Arial">Two Names - One Group - One Purpo<font size=+1>se</font></font></center>
+</td>
+
+<td VALIGN=TOP WIDTH="22%">
+<center><img SRC="../../image_files/areslogo.jpg" NOSAVE height=97 width=98></center>
+</td>
+</tr>
+</table>
+
+<p><b><font face="Arial">INTRODUCTION</font></b>
+<dir>
+<dir>The "gel cell" is often used for back up or remote power of radios
+and other amateur equipment. In most cases, the intentions are good, but
+the ongoing maintenance or lack there of, leads to disappointment due to
+short operation times or premature failure of the battery.
+<p>There are chargers available that will maintain the gel cell at optimal
+level ready for use, as well as ensure proper charging currents to minimize
+charge time but not damage the battery. The cost for these chargers exceeds
+the price of the gel cells, so ad hoc methods are used to keep the battery
+charged. This article provides one method of charging and maintaining gel
+cell batteries to ensure peak performance and long life.</dir>
+</dir>
+<b>OVERVIEW</b>
+<dir>
+<dir>Gel cell batteries that are being charged for backup or emergency
+use, should be connected to a charger that will maintain them at a "float"
+voltage at all times. The typical float voltage is 13.4 to 14.1 volts.
+If the voltage is maintained within this range, the battery can be left
+connected to the charger, without damage. This ensures that the battery
+is at peak performance at all times.
+<p>It is possible to use a standard 13.8V DC power supply to charge and
+maintain your 12 volt gel cell battery. There are some limitations in using
+this method, but there are also some good reasons to use it.
+<p><b><u>Limitations:</u></b></dir>
+</dir>
+
+<ul>
+<ul>
+<li>
+The charge current is low, so it will take 12 to 16 hours to charge the
+battery after extended use. Proper gel cell chargers are able to control
+the charging current, so they can charge the battery much faster.</li>
+
+<li>
+If your power supply has a fixed output (no adjustment), then the maximum
+voltage at the battery is 13.1 VDC.</li>
+
+<li>
+This solution does not scale well to large batteries such as deep cycle
+batteries. The charge rate is slow and the resistor required gets very
+large, wasting a lot of energy. The power supply must be of sufficient
+size that is can support the load, plus provide sufficient power to charge
+the battery.</li>
+</ul>
+</ul>
+
+<dir>
+<dir><b><u>Benefits:</u></b></dir>
+</dir>
+
+<ul>
+<ul>
+<li>
+This is a cheap way to maintain your gel cell, if you already own a power
+supply.</li>
+
+<li>
+This solution provides automatic battery backup. If the AC power fails,
+the battery supplies the load, completely transparent to radio operation.</li>
+</ul>
+</ul>
+<b>THEORY OF OPERATION</b>
+<dir>
+<dir>The typical radio power supply is regulated for 13.8 volts DC. This
+is about the same as the float voltage for a gel cell battery. In theory,
+you could connect the battery to the power supply for charging. This is
+not a good idea and is dangerous. The problem is that there is no way to
+control or limit the charging current. If your battery was significantly
+discharged, the initial charge current would be high and the battery could
+be destroyed or damaged.
+<p>The current can be controlled, by inserting a current limiting resistor
+(R1 in Figure 1) between the battery and the power supply. This will limit
+the initial charging current to a safe level. However as the battery charges,
+its voltage increases, while the voltage across the resistor decreases.
+The decreasing voltage across the resistor reduces the charging current,
+increasing the charging time.
+<p>The resistor alone will safely charge the battery, but including two
+diodes adds two important features;</dir>
+</dir>
+
+<ol>
+<ol>
+<li>
+Protection for the battery so it will not back feed into the power supply,
+when the power supply is turned off or the AC power fails.</li>
+
+<li>
+Automatic battery backup power if the AC power fails.</li>
+</ol>
+</ol>
+
+<dir>
+<dir>
+<dir>
+<dir>
+<dir>
+<dir>
+<dir>
+<dir><img SRC="Image7.gif" height=169 width=246></dir>
+</dir>
+</dir>
+</dir>
+</dir>
+</dir>
+
+<center><b>Figure 1 Power Supply Charging Circuit</b></center>
+
+<p><br>
+<br>
+<br>
+<br>
+<br>
+<p>Diode D1 provides the anti back feed protection, so the power supply
+will not drain the battery if the AC power fails or the power supply is
+turned off. The second diode, D2, allows the battery to power the radio
+when the power supply goes off. Without the diode D2, the radio would draw
+its current through the current limiting resistor. The voltage drop across
+the resistor would be significant and would vary depending on whether the
+radio was receiving or transmitting. In fact, receive operation may be
+possible, but the voltage drop across the resistor would be too high for
+most radios to support transmission. Adding diode D2 solves this problem.
+When the power supply is operating, D1 is reverse biased so all current
+flows through the resistor. When the battery is powering the radio, diode
+D2 is forward biased and the current flows through the diode.
+<p>There are two downsides to adding the diodes, based on the fact that
+there is a voltage drop across the diode of 0.7 volts. The impact of the
+voltage drop is;</dir>
+</dir>
+
+<ol>
+<ol>
+<li>
+For a power supply with an output of 13.8 volts, due to the 0.7 volts dropped
+across D1, the maximum voltage at the battery will be 13.1 volts. This
+is slightly below the preferred float voltage of 13.4 to 14.1 volts. This
+is better than random charging and overcharging, but it could be better.</li>
+</ol>
+
+<ol>If the power supply has an internal or external voltage adjustment,
+it is possible to compensate for the voltage drop across diode D1. By increasing
+the power supply output voltage to 14.5 volts (13.8 + 0.7), as measured
+at Test Point 1 (TP1) the voltage measured at TP2 will then be 13.8 volts.
+The battery is now floating at 13.8 volts, which is within the desired
+float voltage.</ol>
+
+<br>&nbsp;
+<ol>
+<li>
+When the battery is powering the radio, there will be 0.7 volts dropped
+across D2, so the voltage at the radio will be 0.7 volts less than the
+voltage at the battery. If the battery is at best 12.9 volts when the charger
+fails, then the voltage at the radio is only 12.2 volts to start with and
+it will go down from there.</li>
+</ol>
+</ol>
+
+<dir>
+<dir>Voltage drop across D2 can be overcome by installing a switch or relay,
+which simultaneously bypasses diode D2 while removing the power supply
+connection from D1. The switch and relay provide identical functions, but
+the relay will do the switching automatically, while with the switch there
+is always the possibility of someone forgetting to set the switch back
+when the AC power returns.
+<br>&nbsp;Figure 2A shows the circuit from Figure 1, with the addition
+of S1, a SPDT switch. When the switch is in the position shown in the diagram,
+the battery is connected directly to the radio, bypassing diode D2, eliminating
+the 0.7 V drop across D2. The power supply connection at D1 is broken so
+there is no possibility of accidentally having the battery connected directly
+to the power supply. When the switch toggles, the power supply connection
+at D2 is reconnected and the bypass around D2 is removed.
+<p>Figure 2B shows the same circuit from Figure 1, with the addition of
+K1, a SPDT relay. The drawing shows the connection for the relays normal
+(non powered) state. When the power supply is applying power, relay K1
+is energized, pulling the contact up so the radio is connected to D1. When
+the power fails, the relay contact goes back to the normal position, bypassing
+D2 and removing the connection at D1.
+<p><img SRC="imageCKM.JPG" NOSAVE height=198 width=421><img SRC="image5L2.JPG" NOSAVE height=214 width=421>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Figure 2A&nbsp; Switch Bypass&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Figure 2B&nbsp; Relay Bypass
+<br>&nbsp;</dir>
+</dir>
+<b>PACKAGING</b>
+<dir>
+<dir>There are two options for packaging this solution; install the components
+in a mini box or install them inside the power supply. For me, the more
+idiot proof the better, so I installed the resistor and diodes inside the
+power supply case and added an extra set of binding posts for the battery
+connection. You could use a wire and connector instead of the binding posts,
+to connect the battery. MAKE SURE YOU LABEL THE NEW CONNECTION.
+<center>
+<p><img SRC="image6DQ.JPG" NOSAVE height=288 width=879>
+<p><b>Figure 3 Modified Power Supply</b></center>
+
+<p><br>
+<br>
+<br>
+<br>
+<br>
+<p>The wire that attaches to the original positive binding post is cut
+and the diodes and resistor are added. A new wire is added from the original
+negative binding post, to the new battery connection negative binding post.
+<p>When the power supply voltage is increased to compensate for the diode
+(D1), the voltage at the original power supply output is still 13.8 VDC
+and there is the option to attach a battery.
+<p>If the components are installed in a mini box, which then connects to
+the output of the power supply, the power supply output will be 14.5 volts,
+which is higher than the normal 13.8 volts. It is possible for someone
+who doesn't know this to connect directly to the power supply instead of
+the adapter, which may accidentally cause damage to equipment.
+<br>&nbsp;
+<br>&nbsp;</dir>
+</dir>
+<b>COMPONENT RATING</b>
+<dir>
+<dir><b><u>Diodes</u></b>
+<p>Diodes D1 and D2 must have sufficient current rating to supply the requirements
+of the load. If the load is a mobile radio which draws 9 amps on full output,
+the diodes should be rated 1.5 to 2 times the required value, which would
+be about 15 to 20 amps for continuous service.
+<p>Half of a bridge rectifier can be used instead of two diodes. This configuration
+usually can be bolted to the case to dissipate heat and the tabs provide
+a mounting point for the resistor.
+<center>
+<p><img SRC="Image9.gif" height=141 width=310>
+<p><b>Figure 4 Circuit Using Bridge Rectifier</b></center>
+
+<p><br>
+<br>
+<br>
+<br>
+<br>
+<p><b><u>Resistor</u></b>
+<br>The resistor has two considerations; resistance and wattage. The resistance
+must ensure that when the battery is at its lowest voltage, which is maximum
+voltage across the resistor, the current flow does not exceed the battery
+charging rating. The wattage must be sufficient that if the battery were
+shorted, the resistor would support the maximum current through the resistor.
+<br>&nbsp;
+<br>&nbsp;
+<p><b><u>Maximum Charging Current</u></b>
+<br>The maximum charging current is equal to CA, where C is the batteries
+rated capacity and A is the initial current rating from the battery manufacturer.
+The recommended maximum charging currents for gel cells are:
+<dir>
+<dir>4 Ah = 0.3 x 4 = 0.12A (120mA)
+<p>7 Ah = 0.3 x 7 = 0.21A (210mA)
+<br>&nbsp;</dir>
+</dir>
+<b><u>Resistance Calculation</u></b>
+<br>R = E/I, where E is the expected maximum voltage drop across the resistor
+and I is the maximum charging current. The maximum voltage drop across
+the resistor is the power supply output minus the lowest possible battery
+voltage. Since the battery should not be discharged below 10.5 volts, we
+assume a low voltage of 10 volts and a power supply output maximum of 14
+volts. Therefore the maximum voltage across the resistor would be 4 volts.
+The resistor calculation for a 7 Ah battery would be;
+<dir>
+<dir>R = 4 V / 210 mA = 19 ohms.</dir>
+</dir>
+<b><u>Wattage Calculation</u></b>
+<br>The worst case for the resistor is if the battery is shorted so that
+the full power supply output is across the resistor.
+<p>P = E<sup>2</sup>/R, where E is the maximum power supply voltage of
+14 volts and R is the calculated resistance of 19 ohms. Therefore the minimum
+resistor wattage rating is;
+<dir>
+<dir>(14 x 14)/19 = 10.5 watts.</dir>
+</dir>
+The actual resistor wattage rating should be 1.5 to 2 times the calculated
+value.
+<p><b><u>Relay or Switch</u></b>
+<br>The contacts should be rated at least 1.5 times the power supply current
+rating. For example, a 3 amp power supply would require a switch or relay
+with at least 4.5 Amp contact rating. Higher contact ratings are OK.
+<p>Relay K1 should be as small as possible, with a 12VDC coil.
+<br>&nbsp;</dir>
+</dir>
+<b>SUMMARY</b>
+<dir>
+<dir><b>For the typical 4Ah and 7Ah gel cells, use the three twenties;</b>
+<dir>
+<dir><b>Resistor: R = 20 ohms &amp; P = 20 Watts</b>
+<p><b>Diodes: I = 20 Amps</b>
+<br><b></b>&nbsp;</dir>
+</dir>
+</dir>
+</dir>
+
+<hr WIDTH="100%">
+<br><b><a href="../construction.htm">Return To EMRG Construction Page</a></b>
+<p><a href="http://www.emrg.ca">Return To The EMRG Home Page</a>
+</body>
+</html>

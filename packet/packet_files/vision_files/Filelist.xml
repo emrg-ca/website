@@ -1,0 +1,17 @@
+<xml xmlns:o="urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef="../vision.htm"/>
+ <o:File HRef="vision_data.xml"/>
+ <o:File HRef="vision_utils.js"/>
+ <o:File HRef="vision.css"/>
+ <o:File HRef="vision_zoom.htm"/>
+ <o:File HRef="lt_off.gif"/>
+ <o:File HRef="lt_over.gif"/>
+ <o:File HRef="rt_off.gif"/>
+ <o:File HRef="rt_over.gif"/>
+ <o:File HRef="vision_nav2.htm"/>
+ <o:File HRef="vision_frames.htm"/>
+ <o:File HRef="vision_gif_3.htm"/>
+ <o:File HRef=""/>
+ <o:File HRef="vision_gif_3.gif"/>
+ <o:File HRef="Filelist.xml"/>
+</xml>

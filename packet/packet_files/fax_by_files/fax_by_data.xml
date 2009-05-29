@@ -1,0 +1,299 @@
+<VisioDocument xmlns="urn:schemas-microsoft-com:office:visio">
+	<DocumentProperties>
+		<Title>EMRG Index Page</Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="7" Name="5 fax_by_packet" NameU="FAX_by_packet">
+			<Shapes>
+				<Shape ID="1" UniqueID="{B6BA7FE7-C9CD-47B8-82AB-B2C2B3B3791B}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="MM">4.980314960629921</PinX>
+						<PinY Unit="MM">18.661417322834641</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{B9B57D67-A441-41D3-812A-31F37184044E}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="MM">1.306485126859141</PinX>
+						<PinY Unit="MM">18.677339412090813</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{BA8A8025-CA1F-4E67-8A8F-26195551E3E5}" Name="Sheet.3" NameU="Sheet.3">
+					<XForm>
+						<PinX Unit="MM">8.917170698924730</PinX>
+						<PinY Unit="MM">18.677329396325451</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{82CEF8B3-C322-48BC-85EE-EEDD4008A17C}" Name="Sheet.4" NameU="Sheet.4">
+					<Text>Emergency Measures Radio Group
+Ottawa ARES
+- Two Names, One Group, One Purpose -
+
+Service de liaison radio en cas d'urgence</Text>
+					<XForm>
+						<PinX Unit="MM">5.157480314960631</PinX>
+						<PinY Unit="MM">18.661417322834641</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{A2D09324-00AD-445C-B446-E034D709E091}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>Volunteer Emergency Radio Communications -Serving Ottawa Canada</Text>
+					<XForm>
+						<PinX Unit="MM">4.960629921259844</PinX>
+						<PinY Unit="MM">17.776684164479438</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>City of Ottawa Home Page</HLURL:Description>
+										<HLURL:Address>http://www.ottawa.ca</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.ottawa.ca</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="6" UniqueID="{B272CEEE-E5A1-4A21-AB01-D858427F280F}" Name="Sheet.6" NameU="Sheet.6">
+					<Text>FAX by Packet  - An Idea</Text>
+					<XForm>
+						<PinX Unit="MM">4.950787401574804</PinX>
+						<PinY Unit="MM">17.440944881889759</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{112D9578-E7CA-4F69-97AB-6623D4A2F16D}" Name="Sheet.7" NameU="Sheet.7">
+					<Text>This page outlines an idea, that may be useful or may just have too many issues to work properly. This is a project that will be investigated once time permits.</Text>
+					<XForm>
+						<PinX Unit="MM">5.019685039370078</PinX>
+						<PinY Unit="MM">16.989282589676289</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{BF605D91-2D90-416D-8D17-AEB8444BC59F}" Name="Sheet.8" NameU="Sheet.8">
+					<Text>Why Even Think About It?</Text>
+					<XForm>
+						<PinX Unit="MM">1.870078740157479</PinX>
+						<PinY Unit="MM">16.456692913385822</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{A10B1A13-1212-4034-A9D0-FB71BD2E6EA4}" Name="Sheet.9" NameU="Sheet.9">
+					<Text>The basic solution requires a FAX machine, two PCs and a simulated phone network interface connecting the FAX to the PC. The FAX is sent from the FAX machine, to a PC co-located with the FAX machine. The PC receives the FAX and saves it as a file. The file can now be transferred using packet radio to another PC at the other end, where the FAX can then be printed. No negotiating over the air, no full duplex radio links.
+ 
+The system requires user intervention to transfer the file, but someone with some software skills may be able to automate the process and perhaps even extract some of the header information so the fax can be routed to the right destination at the other end (i.e to the Red Cross or People Services at different locations) 
+
+FAX over Packet is not a solution that would be available everywhere. This might be a single system solution, available to deploy at one site. Amateur radio emergency communications is a volunteer effort and emergencies do not happen every day, so there are limits on how much equipment would be available in an emergency.</Text>
+					<XForm>
+						<PinX Unit="MM">4.822834645669290</PinX>
+						<PinY Unit="MM">12.047244094488187</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{B136151B-0D77-41EE-88FF-E0FB0BC7192A}" Name="Sheet.10" NameU="Sheet.10">
+					<Text>One of the most common forms of information transfer is the FAX machine. Even for emergency communications, most organizations use FAX, either portable units in vehicles or as a way to transfer information between offices. The FAX is direct point to point, the information can be sent as is, no typing, there is instant feedback about whether your message is going through, it is relatively secure and the information output is in printed form. FAX or “sneaker net” may be the only way to get the information to another place. Try sending a hand sketched diagram over a voice network.
+
+In an emergency, there may be limited Amateur radio operator resources available, so finding solutions that can be operated by the people in the supported agency reduces the number of amateurs required. Amateur radio is becoming a communications system provider, rather than a provider and operator. In a shelter, one or two amateurs can maintain multiple communications links, if non amateurs operate the interface to the network. The difficulty is finding a user interface that is simple and that people are familiar with. The FAX machine may be that simple user interface for some situations.</Text>
+					<XForm>
+						<PinX Unit="MM">4.921259842519685</PinX>
+						<PinY Unit="MM">14.999999999999998</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{6927CF1C-9641-47EB-8226-D1A478C7632F}" Name="Sheet.11" NameU="Sheet.11">
+					<Text>An Alternate FAX Solution</Text>
+					<XForm>
+						<PinX Unit="MM">1.870078740157481</PinX>
+						<PinY Unit="MM">6.003937007874013</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{1D1C7FCC-3815-4CD7-BBC2-476210925644}" Name="Sheet.12" NameU="Sheet.12">
+					<Text>There are interfaces which use either a full duplex radio link with duplexers or full duplex using different bands for transmit and receive. Two systems are required, with one interface connecting to a phone line at site A and the other to a FAX machine at site Z. This allows the FAX to work exactly as it would on a normal phone line. In this solution, radio provides a wireless connection from the FAX machine location to the nearest connection point to the telephone network. 
+
+This solution provides normal FAX operation, but there can be problems with the signal quality, plus setting up a full duplex system can be difficult &amp; costly. The same equipment could be used to provide full duplex voice phone service as well, which in an emergency could be very useful.</Text>
+					<XForm>
+						<PinX Unit="MM">4.921259842519685</PinX>
+						<PinY Unit="MM">4.968859361329834</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{424D19BD-7704-47FC-AFEE-AF80167EC2A5}" Name="Sheet.13" NameU="Sheet.13">
+					<Text>The FAX Over Packet Idea</Text>
+					<XForm>
+						<PinX Unit="MM">1.870078740157480</PinX>
+						<PinY Unit="MM">13.425196850393698</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{C596B573-CC2E-44D8-85F3-82D344A28BAA}" Name="Sheet.14" NameU="Sheet.14">
+					<Text>FAX Connection Ideas</Text>
+					<XForm>
+						<PinX Unit="MM">1.870078740157480</PinX>
+						<PinY Unit="MM">10.590551181102359</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{66EA9AB7-3F43-4184-9157-1E0EC4BB6FB4}" Name="Sheet.15" NameU="Sheet.15">
+					<Text>The FAX machine is expecting dial tone from the phone network, the FAX then sends the phone number it wants to connect to and the phone network makes the connection. The FAX receiving machine answers, then the two FAX machines negotiate the transmission parameters for the FAX to be sent.
+
+There are several versions of the simple interface cables that can be installed between the FAX and PC. Here is one that uses 12VDC (I have not tested anything related to this)    www.epanorama.net/documents/telecom/fax_to_modem.html. There are also phone test devices which allow point to point telephone connections for intercom applications or for testing phone equipment. Viking Electronics is one manufacturer who makes such a device, model DLE-200B. </Text>
+					<XForm>
+						<PinX Unit="MM">4.822834645669291</PinX>
+						<PinY Unit="MM">9.507874015748030</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{3A999B8E-671E-4B69-BEA8-133E34C7D749}" Name="Sheet.16" NameU="Sheet.16">
+					<Text>Issues To Investigate</Text>
+					<XForm>
+						<PinX Unit="MM">1.870078740157480</PinX>
+						<PinY Unit="MM">8.346456692913385</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{49104228-1BDA-4267-B9B4-B5E4ABB2E2D7}" Name="Sheet.17" NameU="Sheet.17">
+					<Text>[http://www.vikingelectronics.com/products/linesimulator/dle-200b(dt).html]</Text>
+					<XForm>
+						<PinX Unit="MM">5.600393700787401</PinX>
+						<PinY Unit="MM">8.759842519685037</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Viking Electronics -DLE-200B</HLURL:Description>
+										<HLURL:Address>http://www.vikingelectronics.com/products/linesimulator/dle-200b(dt).html</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.vikingelectronics.com/products/linesimulator/dle-200b(dt).html</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="18" UniqueID="{7A4685EF-93BE-4240-B7A4-7C56B2C7E1C1}" Name="Sheet.18" NameU="Sheet.18">
+					<Text>The size of FAX files varies depending on the amount of dark area in the FAX. Simple 2 page faxes on white paper are around 100kB in size. Data compression such as zipping the file will reduce the size from 10% to 15%, but it is still a large file to transfer using packet. Standard 1200 baud packet is clearly not suitable and any use of a network may have negative impacts on other users. In the end, FAX over packet may have to be kept as a dedicated point to point solution. What are the file sizes and possible restrictions vs packet speeds?
+
+Both ends of the system must be using the same FAX software to receive and then print the FAX. Since this is an amateur radio solution, a freeware FAX software would be the best solution. What is a good FAX software solution?</Text>
+					<XForm>
+						<PinX Unit="MM">4.822834645669292</PinX>
+						<PinY Unit="MM">7.224409448818897</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{1BC41C1E-2B00-47C8-B2A0-2D717A26D003}" Name="Sheet.19" NameU="Sheet.19">
+					<XForm>
+						<PinX Unit="MM">1.377952755905512</PinX>
+						<PinY Unit="MM">3.433083989501312</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Home Page</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="21" UniqueID="{DDD670F8-7844-4330-8D8F-197A202008F4}" Name="Sheet.21" NameU="Sheet.21">
+					<Text>HOME</Text>
+					<XForm>
+						<PinX Unit="MM">0.988293963254593</PinX>
+						<PinY Unit="MM">0.214881889763779</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{7C7E0F97-B0A5-4E91-BA8E-B5FD79AEC09F}" Name="Sheet.22" NameU="Sheet.22">
+					<XForm>
+						<PinX Unit="MM">3.277611548556430</PinX>
+						<PinY Unit="MM">3.422813534177793</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Packet Radio Home Page</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca/packet/packet_index.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca/packet/packet_index.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="23" UniqueID="{2F8629DE-92B8-40B8-9C15-501E5F8CE3C7}" Name="PC" NameU="PC" Master="5">
+					<XForm>
+						<PinX Unit="MM">0.157480314960630</PinX>
+						<PinY Unit="MM">0.225950017117425</PinY>
+					</XForm>
+					<Prop ID="4" Name="ID" NameU="ID">
+						<Value></Value>
+						<Label>ID</Label>
+					</Prop>
+					<Prop ID="5" Name="Name" NameU="Name">
+						<Value></Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="6" Name="Department" NameU="Department">
+						<Value></Value>
+						<Label>Department</Label>
+					</Prop>
+					<Prop ID="7" Name="BelongsTo" NameU="BelongsTo">
+						<Value></Value>
+						<Label>Belongs to</Label>
+					</Prop>
+					<Prop ID="8" Name="Modify" NameU="Modify">
+						<Value></Value>
+						<Label>Modified</Label>
+					</Prop>
+					<Prop ID="9" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset number</Label>
+					</Prop>
+					<Prop ID="10" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial number</Label>
+					</Prop>
+					<Prop ID="11" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="12" Name="ModelID" NameU="ModelID">
+						<Value></Value>
+						<Label>Model ID or tag</Label>
+					</Prop>
+					<Prop ID="13" Name="ModelName" NameU="ModelName">
+						<Value></Value>
+						<Label>Model name</Label>
+					</Prop>
+					<Prop ID="14" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product description</Label>
+					</Prop>
+					<Prop ID="15" Name="PurchaseDate" NameU="PurchaseDate">
+						<Value></Value>
+						<Label>Purchase date</Label>
+					</Prop>
+					<Prop ID="20" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="21" Name="BaseElevation" NameU="BaseElevation">
+						<Value></Value>
+						<Label>Base elevation</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="30" UniqueID="{011F520F-F84C-4046-B896-452104414BCC}" Name="Sheet.30" NameU="Sheet.30">
+					<Text>PACKET</Text>
+					<XForm>
+						<PinX Unit="MM">0.712598425196850</PinX>
+						<PinY Unit="MM">0.215441819772528</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

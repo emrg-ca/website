@@ -1,0 +1,254 @@
+<VisioDocument xmlns="urn:schemas-microsoft-com:office:visio">
+	<DocumentProperties>
+		<Title>EMRG Index Page</Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="antenna_index" NameU="index">
+			<Shapes>
+				<Shape ID="6" UniqueID="{FFB7D7B6-96AF-471C-8DEF-8A8B72DBEDDF}" Name="Sheet.6" NameU="Sheet.6">
+					<Text>Mike Kelly (VE3FFK) developed two antenna designs, which were selected for the first EMRG Antenna Building Party;
+       1)  Dual Band Discone Antenna made using steel tape measures
+       2)  VHF Twin Lead J-Pole made from TV twin lead
+
+The antenna party was moderately successful in terms of turnout, but the people who participated seemed to enjoy themselves. The way the antenna party works, is that you bring some parts (information below), some tools, your interest and some other people will supply a few key parts and a helping hand if you need it.
+
+There are three objectives for having an EMRG sponsored building session;
+    - Provide an opportunity for Amateurs of all skills to build something and
+      learn new skills
+    - Provide an opportunity for Amateurs to build something that could be 
+      used in an emergency
+    - To have some fun, meet new people and try something different</Text>
+					<XForm>
+						<PinX Unit="MM">5.816929133858269</PinX>
+						<PinY Unit="MM">7.302725831146108</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="46" UniqueID="{F65399D0-F70A-4D08-8C54-4F99F1231C5F}" Name="Sheet.46" NameU="Sheet.46">
+					<Text>Antenna Designs   &amp;   Antenna Cables</Text>
+					<XForm>
+						<PinX Unit="MM">5.000000000000000</PinX>
+						<PinY Unit="MM">9.142730205599301</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="51" UniqueID="{E53DBD22-CFB8-41BF-A838-21927059E57B}" Name="Sheet.51" NameU="Sheet.51">
+					<XForm>
+						<PinX Unit="MM">5.000000000000000</PinX>
+						<PinY Unit="MM">10.126982174103238</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="52" UniqueID="{C866E26D-BB84-4179-99CD-4A12812132F9}" Name="Sheet.52" NameU="Sheet.52">
+					<XForm>
+						<PinX Unit="MM">1.259842519685040</PinX>
+						<PinY Unit="MM">10.189800242327381</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="53" UniqueID="{8DF7F8D0-8CCF-46DC-BE4D-714CB3EEEA0F}" Name="Sheet.53" NameU="Sheet.53">
+					<XForm>
+						<PinX Unit="MM">8.917170698924732</PinX>
+						<PinY Unit="MM">10.094652230971128</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="54" UniqueID="{783163F5-CC72-404E-A096-29F2A59D8F29}" Name="Sheet.54" NameU="Sheet.54">
+					<Text>Emergency Measures Radio Group
+Ottawa ARES
+- Two Names, One Group, One Purpose -
+Service de liaison radio en cas d'urgence</Text>
+					<XForm>
+						<PinX Unit="MM">5.216535433070866</PinX>
+						<PinY Unit="MM">10.234279308836399</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="55" UniqueID="{B28FE315-A5ED-44E1-AEEC-2A3D1E41DF0D}" Name="Sheet.55" NameU="Sheet.55">
+					<Text>Volunteer Emergency Radio Communications -Serving Ottawa Canada</Text>
+					<XForm>
+						<PinX Unit="MM">5.157480314960631</PinX>
+						<PinY Unit="MM">9.645669291338582</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>City of Ottawa Home Page</HLURL:Description>
+										<HLURL:Address>http://www.ottawa.ca</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.ottawa.ca</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="57" UniqueID="{06146F37-EDFD-49AE-8856-8219EFCCF55C}" Name="Sheet.57" NameU="Sheet.57">
+					<Text>Antenna Ideas</Text>
+					<XForm>
+						<PinX Unit="MM">1.062992125984252</PinX>
+						<PinY Unit="MM">7.313115157480316</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Antenna Ideas</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca/technical/antennas/antennas.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca/technical/antennas/antennas.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="61" UniqueID="{ABDB24D0-00D4-491E-A580-B89ABBE016B0}" Name="Sheet.61" NameU="Sheet.61">
+					<Text>Cable</Text>
+					<XForm>
+						<PinX Unit="MM">1.062992125984252</PinX>
+						<PinY Unit="MM">6.722563976377955</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Antenna Cable Suggestions</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca/technical/antennas/cable.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca/technical/antennas/cable.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="62" UniqueID="{BCD5192F-F2FD-4652-A954-7356F623A5BB}" Name="Sheet.62" NameU="Sheet.62">
+					<Text>Installation</Text>
+					<XForm>
+						<PinX Unit="MM">1.062992125984252</PinX>
+						<PinY Unit="MM">6.122170275590553</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Antenna Mounting Suggestions</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca/technical/antennas/antenna_mounts.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca/technical/antennas/antenna_mounts.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="70" UniqueID="{1696C184-794A-4E5E-A220-065C89B3137A}" Name="Sheet.70" NameU="Sheet.70">
+					<Text>Email your Questions or Comments to VE3OCE@RAC.CA</Text>
+					<XForm>
+						<PinX Unit="MM">5.000000000000000</PinX>
+						<PinY Unit="MM">5.560053040244972</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="79" UniqueID="{55398899-C6E9-4DDC-B06C-E68DA28BF32B}" Name="Sheet.79" NameU="Sheet.79">
+					<Text>Twin Lead J-Pole</Text>
+					<XForm>
+						<PinX Unit="MM">1.062992125984252</PinX>
+						<PinY Unit="MM">7.903666338582680</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Twin Lead J-Pole Antenna</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca/documents/official_documents/EMRG-200_Reference/EMRG-201_Twin_Lead_J-Pole.pdf</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca/documents/official_documents/EMRG-200_Reference/EMRG-201_Twin_Lead_J-Pole.pdf</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="1" UniqueID="{F41DBA73-B748-4610-8555-9AF03F525DF5}" Name="Sheet.1" NameU="Sheet.1">
+					<Text>Tape Measure Discone</Text>
+					<XForm>
+						<PinX Unit="MM">1.062992125984252</PinX>
+						<PinY Unit="MM">8.499138779527556</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Tape Measure Discone Antenna</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca/documents/official_documents/EMRG-200_Reference/EMRG-202_Tape_Measure_Discone.pdf</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca/documents/official_documents/EMRG-200_Reference/EMRG-202_Tape_Measure_Discone.pdf</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="81" UniqueID="{E98F2DB1-63EB-4F32-B30B-DB73820B76E8}" Name="Sheet.81" NameU="Sheet.81">
+					<Text>HOME</Text>
+					<XForm>
+						<PinX Unit="MM">0.984251968503937</PinX>
+						<PinY Unit="MM">5.570866141732283</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG - Ottawa ARES Home Page</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="7" UniqueID="{03378EE7-C320-4704-8CF1-9393BDB34111}" Name="Sheet.7" NameU="Sheet.7">
+					<Text>Technical Index</Text>
+					<XForm>
+						<PinX Unit="MM">8.877952755905511</PinX>
+						<PinY Unit="MM">5.570866141732283</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG - Ottawa ARES Technical Index</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca/technical/technical_index.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca/technical/technical_index.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="8" UniqueID="{306BDF3D-D291-4CB6-9DC4-0C7D77DF1E62}" Name="Sheet.8" NameU="Sheet.8">
+					<XForm>
+						<PinX Unit="MM">5.816929133858268</PinX>
+						<PinY Unit="MM">7.302725831146109</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

@@ -1,0 +1,223 @@
+<VisioDocument xmlns="urn:schemas-microsoft-com:office:visio">
+	<DocumentProperties>
+		<Title>EMRG Index Page</Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<Shapes>
+				<Shape ID="4" UniqueID="{89D1ADA8-BCFB-4945-9637-53FA97FF64D2}" Name="Sheet.4" NameU="Sheet.4">
+					<XForm>
+						<PinX Unit="MM">5.039370078740157</PinX>
+						<PinY Unit="MM">16.821959755030619</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="1" UniqueID="{FF929D45-1E11-45B4-A8B5-59593009AEF1}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="MM">1.365540244969378</PinX>
+						<PinY Unit="MM">16.837881844286787</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{A2EE85CA-8E38-4007-A6BF-19E956E48C6E}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="MM">8.976225817034969</PinX>
+						<PinY Unit="MM">16.837871828521429</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{CEC43FF0-452F-40A3-9482-9CA75E8B0003}" Name="Sheet.3" NameU="Sheet.3">
+					<Text>Emergency Measures Radio Group
+Ottawa ARES
+- Two Names, One Group, One Purpose -
+
+Service de liaison radio en cas d'urgence</Text>
+					<XForm>
+						<PinX Unit="MM">5.216535433070867</PinX>
+						<PinY Unit="MM">16.821959755030619</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{836A7884-760B-44CE-8490-94F2E9AA1A3F}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>Volunteer Emergency Radio Communications -Serving Ottawa Canada</Text>
+					<XForm>
+						<PinX Unit="MM">5.019685039370080</PinX>
+						<PinY Unit="MM">15.937226596675412</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>City of Ottawa Home Page</HLURL:Description>
+										<HLURL:Address>http://www.ottawa.ca</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.ottawa.ca</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="29" UniqueID="{7FE57EA2-25F4-4ABB-8405-4216B99F1A5B}" Name="Sheet.29" NameU="Sheet.29">
+					<Text>It takes more than  a group of individuals who own radios to  be useful in an emergency.   It takes an organized team!
+</Text>
+					<XForm>
+						<PinX Unit="MM">5.000000000000000</PinX>
+						<PinY Unit="MM">0.405511811023622</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="35" UniqueID="{44602790-2911-40D3-A7E9-568087815D45}" Name="Question mark" NameU="Question mark" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.056102362204793</PinX>
+						<PinY Unit="MM">1.151574803149606</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="36" UniqueID="{9ABAA5EE-3C6D-44D0-8375-288217343B54}" Name="Sheet.36" NameU="Sheet.36">
+					<Text>
+					</Text>
+					<XForm>
+						<PinX Unit="MM">0.098425196850394</PinX>
+						<PinY Unit="MM">0.147637795275591</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="38" UniqueID="{651E8477-65B9-4A13-92B8-11BEFC2C22C6}" Name="Sheet.38" NameU="Sheet.38">
+					<Text>VE3OCE@RAC.CA</Text>
+					<XForm>
+						<PinX Unit="MM">5.026137357830201</PinX>
+						<PinY Unit="MM">1.016175772736162</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{2214C2CE-8FB3-4152-82BE-8D8049AD2817}" Name="Sheet.6" NameU="Sheet.6">
+					<Text>At the January 31, 2004 General Meeting, EMRG members were split into three groups, with the task of answering 5 questions. The purpose of this exercise was to find out what people in EMRG think about EMRG and how we can make the group even better. </Text>
+					<XForm>
+						<PinX Unit="MM">4.980314960629922</PinX>
+						<PinY Unit="MM">15.404636920384949</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{06ECBB46-434C-4EB7-8145-4655E2CF390F}" Name="Sheet.8" NameU="Sheet.8">
+					<Text>This group exercise produced some excellent feedback, which will help the management team improve. The main theme of the comments can be summed up as,</Text>
+					<XForm>
+						<PinX Unit="MM">4.881889763779528</PinX>
+						<PinY Unit="MM">14.769247594050739</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{87E70CE3-CD15-43EE-A7DB-41A9F8531B81}" Name="Sheet.7" NameU="Sheet.7">
+					<XForm>
+						<PinX Unit="MM">2.854330708661419</PinX>
+						<PinY Unit="MM">13.644017935258091</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{D601D361-BA79-4242-8BBB-E125201C1E98}" Name="Sheet.9" NameU="Sheet.9">
+					<Text>- To do public service, filling a perceived need.
+- To pass on experience
+- To have fun
+- To gain technical skill
+- To gain experience in problem solving
+- To meet like minded people
+- To build organizational skills
+* People may join for one or more reasons, but stay for different reasons</Text>
+					<XForm>
+						<PinX Unit="MM">4.655511811023622</PinX>
+						<PinY Unit="MM">12.545769478504766</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{501F2675-B630-4D17-9973-90FA2AED6FE7}" Name="Sheet.10" NameU="Sheet.10">
+					<XForm>
+						<PinX Unit="MM">2.854330708661419</PinX>
+						<PinY Unit="MM">11.282915183565407</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{87E1C2C9-9BED-43A1-9B0C-EA247B80F676}" Name="Sheet.11" NameU="Sheet.11">
+					<Text>- Past alienation
+- Don’t know enough about what is involved
+- Think they don’t have the required skills
+- Think they don’t have the required equipment
+- Have no interest in emergency service
+- Haven’t seen anything happening in the group
+- Amateur population is aging
+- Don’t understand the potential security restrictions in an emergency
+- Busy somewhere else
+- Prefer to volunteer for something now, Vs preparing for something that may happen
+- Think there is no need for training and planning</Text>
+					<XForm>
+						<PinX Unit="MM">4.557086614173228</PinX>
+						<PinY Unit="MM">9.905786976317540</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{EFD4AB0C-CC10-4685-A24F-5C13C8BF4D52}" Name="Sheet.12" NameU="Sheet.12">
+					<XForm>
+						<PinX Unit="MM">2.840183704030862</PinX>
+						<PinY Unit="MM">8.325100187166187</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{69ED88F9-C331-4781-83F2-0FADC0DB1244}" Name="Sheet.13" NameU="Sheet.13">
+					<Text>- Exercises
+- Organization
+- Relationships with partner agencies
+- Identifying technical issues, understanding what we need
+- Solving technical problems</Text>
+					<XForm>
+						<PinX Unit="MM">4.360236220472441</PinX>
+						<PinY Unit="MM">7.600007130616438</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{660702D7-6137-4F33-870E-A84E691DC2C7}" Name="Sheet.14" NameU="Sheet.14">
+					<XForm>
+						<PinX Unit="MM">2.814960629921260</PinX>
+						<PinY Unit="MM">6.600887588740990</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{4C42F5E3-D3D1-4E6A-9B86-3F8FFD9765AB}" Name="Sheet.15" NameU="Sheet.15">
+					<Text>- Getting information out to Amateurs, non Amateurs and new members
+- Too much history at meetings = Boring meetings
+- Not motivating the group
+- EMRG members don’t get to meet most of the other organizations or their people
+- Not much activity
+- Lack of communication within the group and member to member (in all directions)
+- Not delegating activities, specifically technical opportunities to members</Text>
+					<XForm>
+						<PinX Unit="MM">4.512795275590553</PinX>
+						<PinY Unit="MM">5.652049282944724</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{182E61CE-3D9D-471A-8FF7-DEEFC7C0334C}" Name="Sheet.16" NameU="Sheet.16">
+					<XForm>
+						<PinX Unit="MM">2.844488188976381</PinX>
+						<PinY Unit="MM">4.458135787425439</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{E4DA8307-6B2E-4EFC-8055-5F81A96FB339}" Name="Sheet.17" NameU="Sheet.17">
+					<Text>- Ensure personal preparedness is complete, so people are available to respond quickly
+- Participate consistently 
+- Help with technical issues
+- Promote EMRG with other amateurs</Text>
+					<XForm>
+						<PinX Unit="MM">4.685039370078740</PinX>
+						<PinY Unit="MM">3.853730983316670</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{C875955D-D85B-4119-81F6-E81FAEC5B436}" Name="Sheet.18" NameU="Sheet.18">
+					<Text>SUGGESTIONS &amp; COMMENTS</Text>
+					<XForm>
+						<PinX Unit="MM">2.494477252843394</PinX>
+						<PinY Unit="MM">2.809330283404159</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{F8EADE53-4FFA-49FC-ADC4-566363081DD9}" Name="Sheet.19" NameU="Sheet.19">
+					<Text>- The management team needs to seek opinions from the membership more often
+- Newsletters and Bulletins to get information out</Text>
+					<XForm>
+						<PinX Unit="MM">5.019685039370078</PinX>
+						<PinY Unit="MM">2.460629921259842</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{6317A18C-B263-4A1C-A571-201D4ABB6FF6}" Name="Sheet.20" NameU="Sheet.20">
+					<Text>                    “WE WANT TO BE MORE INVOLVED IN PLANNING AND BUILDING FOR EMRG!”</Text>
+					<XForm>
+						<PinX Unit="MM">4.822834645669291</PinX>
+						<PinY Unit="MM">14.370078740157480</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

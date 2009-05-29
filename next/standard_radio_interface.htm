@@ -1,0 +1,89 @@
+<HTML>
+
+<HEAD>
+    <TITLE>Standard Radio Interface</TITLE>
+    <link REL="stylesheet" TYPE="text/css" HREF="shared/style.css">
+    <script language="javascript" src="shared/corefunctions.js"></script>
+</HEAD>
+
+<BODY>
+
+
+
+
+
+
+
+<h1>Standard Radio Interface</h1>
+
+<center>
+This is a work in progress and is presented to encourage discussion
+and refinement in order to document a standard solution.
+
+<br>Send your comments to: ve3oce@rac.ca
+</center>
+
+<div style="text-align: right;">
+  <a href="EMRG-210_Standard_Radio_Interface.pdf">Standard Radio Interface document</a> <img SRC="shared/pdficon_small.GIF">
+</div>
+
+<h2>Introduction</h2>
+
+The Standard Radio Interface provides a universal connector for
+interfacing radios and accessories together. The first phase is to
+define the connector and connector pin out that to support physical
+interconnection. The next phase will define the electrical standards
+for each signal.
+
+<p>The benefit of a standard radio interface is the ability to swap radios
+of different make or model, without requiring a custom interface cable.
+This might be to replace a radio in a small repeater, or at a shelter
+where they are operating with the Standard User Interface.
+
+<p>The standard also allows a cross band repeater to be put on a different
+band, simply by swapping the radio. If a shelter has several voice
+channels in operation and they are causing interference, then one of
+the radios can be replaced easily by unplugging one and plugging in a
+radio for a different band. Now the link into the repeater might be on
+6m or 1.35m.
+
+<h2>What If My Radio Is Different</h2>
+
+The majority of equipment can be interconnected quite easily simply by
+defining the physical interface. There is some equipment that
+will not provide the same electrical interface as defined
+for the standard interface. In cases where the equipment, a radio, TNC,
+or phone patch for example, does not support the standard interface,
+additions or modifications will be made to the equipment to meet the
+standard.
+
+<p>This may mean adding a circuit inside the radio to invert the PTT
+signal, or it may mean adding a small mini box to the outside of the
+radio, with interface circuit inside the box.
+
+<h2>What If My Auxiliary Equipment Draws More Than 1.3Amps</h2>
+
+The 1.3A current limit for the auxiliary power within the standard
+interface, will support most equipment such as TNCs, phone patches and
+repeater controllers. If the device requires more than 1.3A, it must be
+wired with it's own 12VDC power connection.
+
+<h2>Feedback</h2>
+
+<h3>Packet PTT:</h3>
+
+It has been identified that the PTT in the rear connector of some radios operates
+differently than the PTT on the microphone switch. The microphone PTT mutes
+the packet, while the packet PTT mutes the microphone.  This will need to be
+addressed in the physical interface.
+
+
+
+
+
+
+
+
+
+</BODY>
+</HTML>

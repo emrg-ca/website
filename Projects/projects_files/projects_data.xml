@@ -1,0 +1,308 @@
+<VisioDocument xmlns="urn:schemas-microsoft-com:office:visio">
+	<DocumentProperties>
+		<Title>EMRG Index Page</Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<Shapes>
+				<Shape ID="42" UniqueID="{F4499004-411A-452C-A7DC-86FA0D7EE569}" Name="Sheet.42" NameU="Sheet.42">
+					<XForm>
+						<PinX Unit="MM">7.785433070866141</PinX>
+						<PinY Unit="MM">5.256999125109362</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="31" UniqueID="{46E650A5-9AC1-487C-9304-78431A1068E7}" Name="Sheet.31" NameU="Sheet.31">
+					<XForm>
+						<PinX Unit="MM">3.985325697924122</PinX>
+						<PinY Unit="MM">6.083770778652669</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{89D1ADA8-BCFB-4945-9637-53FA97FF64D2}" Name="Sheet.4" NameU="Sheet.4">
+					<XForm>
+						<PinX Unit="MM">4.980314960629920</PinX>
+						<PinY Unit="MM">10.078740157480315</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="1" UniqueID="{FF929D45-1E11-45B4-A8B5-59593009AEF1}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="MM">1.306485126859141</PinX>
+						<PinY Unit="MM">10.094662246736485</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{A2EE85CA-8E38-4007-A6BF-19E956E48C6E}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="MM">8.917170698924732</PinX>
+						<PinY Unit="MM">10.094652230971128</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{CEC43FF0-452F-40A3-9482-9CA75E8B0003}" Name="Sheet.3" NameU="Sheet.3">
+					<Text>Emergency Measures Radio Group
+Ottawa ARES
+- Two Names, One Group, One Purpose -
+
+Service de liaison radio en cas d'urgence</Text>
+					<XForm>
+						<PinX Unit="MM">5.157480314960630</PinX>
+						<PinY Unit="MM">10.078740157480318</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{836A7884-760B-44CE-8490-94F2E9AA1A3F}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>Volunteer Emergency Radio Communications -Serving Ottawa Canada</Text>
+					<XForm>
+						<PinX Unit="MM">4.960629921259843</PinX>
+						<PinY Unit="MM">9.194006999125110</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>City of Ottawa Home Page</HLURL:Description>
+										<HLURL:Address>http://www.ottawa.ca</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.ottawa.ca</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="38" UniqueID="{651E8477-65B9-4A13-92B8-11BEFC2C22C6}" Name="Sheet.38" NameU="Sheet.38">
+					<Text>For information , please send an email to:   VE3OCE@RAC.CA</Text>
+					<XForm>
+						<PinX Unit="MM">5.039370078740159</PinX>
+						<PinY Unit="MM">1.516841644794401</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{62B52DE5-6886-4E9C-91AD-1604B79635CD}" Name="Sheet.17" NameU="Sheet.17">
+					<Text>Communicating Through Glass
+Infrared TX/RX</Text>
+					<XForm>
+						<PinX Unit="MM">1.122047244094488</PinX>
+						<PinY Unit="MM">6.791338582677166</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Ways to extend the radio from the user</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca/Projects/communications_thru_glass.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca/Projects/communications_thru_glass.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="21" UniqueID="{300816A8-FAF4-4788-AA46-C6F5B7BE4A27}" Name="Sheet.21" NameU="Sheet.21">
+					<XForm>
+						<PinX Unit="MM">4.763779527559054</PinX>
+						<PinY Unit="MM">6.220472440944882</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{7EC958E3-D9BD-46E6-9C1D-AE3AC0F2407F}" Name="Sheet.22" NameU="Sheet.22">
+					<XForm>
+						<PinX Unit="MM">2.814960629921258</PinX>
+						<PinY Unit="MM">6.220472440944882</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{6C177450-7993-409E-A281-CE0F8D09E71A}" Name="Sheet.23" NameU="Sheet.23">
+					<Text>Circuit Board and Components From
+North Country Radio</Text>
+					<XForm>
+						<PinX Unit="MM">3.917322834645667</PinX>
+						<PinY Unit="MM">5.296369203849519</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://www.northcountryradio.com/Kitpages/pirsyst.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.northcountryradio.com/Kitpages/pirsyst.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="24" UniqueID="{0805BDC3-BC2B-496C-BEFE-5ABCAB182AA3}" Name="Sheet.24" NameU="Sheet.24">
+					<Text>Infrared Transmitter &amp; Receiver</Text>
+					<XForm>
+						<PinX Unit="MM">3.896434820647417</PinX>
+						<PinY Unit="MM">7.028652668416450</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="32" UniqueID="{2CFA72EF-4571-46D6-9217-E65197664453}" Name="Sheet.32" NameU="Sheet.32">
+					<Text>Window</Text>
+					<XForm>
+						<PinX Unit="MM">3.661417322834642</PinX>
+						<PinY Unit="MM">6.220472440944882</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="33" UniqueID="{BDC9DE86-4B0C-44B9-A390-BD47776811D2}" Name="Sheet.33" NameU="Sheet.33">
+					<Text>Most buildings today do not have windows that open, there are few doors and most doors are kept secure. This raises the question of how to communicate from inside the building using a radio. This gets even more difficult if the building is a Hospital.
+
+EMRG is looking at different possiblities, such as cross-band repeaters and Infrared Transmitters or Audio Coupling, that can attach to a window. Do you have any more ideas? Take a look at the Communicating Through Glass page to get more information.</Text>
+					<XForm>
+						<PinX Unit="MM">3.988188976377952</PinX>
+						<PinY Unit="MM">4.194006999125110</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="40" UniqueID="{79657FAD-01AE-41ED-B33A-5960DE0B7ED6}" Name="Sheet.40" NameU="Sheet.40">
+					<XForm>
+						<PinX Unit="MM">7.743237824438610</PinX>
+						<PinY Unit="MM">6.329286964129484</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="43" UniqueID="{652C591C-4339-48EF-BC9D-6953602F65EC}" Name="Sheet.43" NameU="Sheet.43">
+					<Text>GE Phoenix SX
+Programming</Text>
+					<XForm>
+						<PinX Unit="MM">7.748468941382327</PinX>
+						<PinY Unit="MM">6.772747156605425</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="44" UniqueID="{8A245435-A70D-431E-ACEB-0204E7A5595F}" Name="Sheet.44" NameU="Sheet.44">
+					<Text>EMRG has been donated some GE Phoenix SX UHF radios and GE PSX-200 VHF radios. These were made by GE and can be programmed using a computer with a custom interface board and software.</Text>
+					<XForm>
+						<PinX Unit="MM">7.775590551181102</PinX>
+						<PinY Unit="MM">5.118110236220472</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="45" UniqueID="{209B9DCE-081F-4643-8CFB-4C101F6FE249}" Name="Sheet.45" NameU="Sheet.45">
+					<XForm>
+						<PinX Unit="MM">6.877734033245843</PinX>
+						<PinY Unit="MM">4.015748031496063</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="46" UniqueID="{A4E045E7-8620-4A6A-9F5D-6C38A76A6A46}" Name="Sheet.46" NameU="Sheet.46">
+					<Text>This is a multi phase project, with the first phase to build the programming interface, which is now complete. </Text>
+					<XForm>
+						<PinX Unit="MM">8.562992125984250</PinX>
+						<PinY Unit="MM">3.976377952755906</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{5CF152E7-607F-4519-8AE9-C8D33340C3BB}" Name="Sheet.13" NameU="Sheet.13">
+					<XForm>
+						<PinX Unit="MM">5.757874015748032</PinX>
+						<PinY Unit="MM">2.540463692038496</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{65B7F3C2-2E63-4583-B2D4-92E24EB6C304}" Name="Sheet.15" NameU="Sheet.15">
+					<XForm>
+						<PinX Unit="MM">2.956856955380575</PinX>
+						<PinY Unit="MM">2.595691163604549</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Link to NHRC Repeater Controller Web Page</HLURL:Description>
+										<HLURL:Address>http://www.nhrc.net/nhrc-4mvp/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.nhrc.net/nhrc-4mvp/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="16" UniqueID="{A009FF72-EA4D-47E9-8DA2-C529C6D61328}" Name="Sheet.16" NameU="Sheet.16">
+					<Text>The GE Custom MVP is a relatively compact, simple crystal controlled radio. Its value is in it’s design, which has a separate Transmit and Receive section. This allows the radio to be modified to allow full duplex (simultaneous Transmit &amp; Receive) operation. The modifications are well documented and NHRC has built a controller that fits inside the radio. Click on the radio to go to the NHRC web page.
+
+EMRG could use these radios for in band repeaters or small portable repeaters. </Text>
+					<XForm>
+						<PinX Unit="MM">6.736001749781274</PinX>
+						<PinY Unit="MM">2.520778652668417</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="26" UniqueID="{F269F1AF-E5B0-4527-9825-F6CC443FF9DD}" Name="Sheet.26" NameU="Sheet.26">
+					<XForm>
+						<PinX Unit="MM">5.767716535433071</PinX>
+						<PinY Unit="MM">4.527559055118110</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{5CF52C46-7018-4640-9DEA-E70B93FA0ACE}" Name="Sheet.6" NameU="Sheet.6">
+					<Text>EMRG has ideas and equipment for a number of projects to enhance our radio communications capabilities. These ideas are being packaged into projects that can be distributed to EMRG members, or any local Amateurs who are interested in helping. 
+
+Some projects will be structured to provide an opportunity for people who want to help and learn, to work with other Amateurs with more experience. While the final objective is go improve communications, this project effort also has the opportunity to help Amateurs learn new skills and share their knowledge and experience, which is what Amateur radio is all about.</Text>
+					<XForm>
+						<PinX Unit="MM">4.921259842519685</PinX>
+						<PinY Unit="MM">8.228346456692915</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="47" UniqueID="{169921FB-72B5-404E-A94F-61D33E18824C}" Name="Sheet.47" NameU="Sheet.47">
+					<XForm>
+						<PinX Unit="MM">5.767716535433071</PinX>
+						<PinY Unit="MM">3.288495188101488</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="48" UniqueID="{DDD9784E-62F7-412E-88C2-195987DBFA09}" Name="Sheet.48" NameU="Sheet.48">
+					<XForm>
+						<PinX Unit="MM">6.005905511811022</PinX>
+						<PinY Unit="MM">5.256999125109362</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="25" UniqueID="{AAD224DF-9822-4E9C-B0AE-14DE67DCF2FF}" Name="Sheet.25" NameU="Sheet.25">
+					<Text>Transmitter</Text>
+					<XForm>
+						<PinX Unit="MM">2.830927384076990</PinX>
+						<PinY Unit="MM">5.766622922134733</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="27" UniqueID="{DC3199B9-A485-42C2-BB5A-A3A9B52CC618}" Name="Sheet.27" NameU="Sheet.27">
+					<Text>Receiver</Text>
+					<XForm>
+						<PinX Unit="MM">4.996281714785651</PinX>
+						<PinY Unit="MM">6.692913385826771</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="53" UniqueID="{5791A1F8-88E2-45DB-8723-3D000BFC233C}" Name="Sheet.53" NameU="Sheet.53">
+					<XForm>
+						<PinX Unit="MM">2.214566929133858</PinX>
+						<PinY Unit="MM">0.836614173228346</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="49" UniqueID="{F65612ED-D256-471F-AC39-92669A22FF9A}" Name="Smiling face" NameU="Smiling face" Master="6">
+					<XForm>
+						<PinX Unit="MM">0.246062992125984</PinX>
+						<PinY Unit="MM">0.246062992125984</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="52" UniqueID="{38D95C87-19CD-4385-A2C9-DD8EEC163339}" Name="Sheet.52" NameU="Sheet.52">
+					<Text>EMRG Home Page</Text>
+					<XForm>
+						<PinX Unit="MM">1.635717410323710</PinX>
+						<PinY Unit="MM">0.196850393700787</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

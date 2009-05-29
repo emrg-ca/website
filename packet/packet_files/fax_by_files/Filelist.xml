@@ -1,0 +1,17 @@
+<xml xmlns:o="urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef="../fax_by_packet.htm"/>
+ <o:File HRef="fax_by_data.xml"/>
+ <o:File HRef="fax_by_utils.js"/>
+ <o:File HRef="fax_by.css"/>
+ <o:File HRef="fax_by_zoom.htm"/>
+ <o:File HRef="lt_off.gif"/>
+ <o:File HRef="lt_over.gif"/>
+ <o:File HRef="rt_off.gif"/>
+ <o:File HRef="rt_over.gif"/>
+ <o:File HRef="fax_by_nav2.htm"/>
+ <o:File HRef="fax_by_frames.htm"/>
+ <o:File HRef="fax_by_gif_5.htm"/>
+ <o:File HRef=""/>
+ <o:File HRef="fax_by_gif_5.gif"/>
+ <o:File HRef="Filelist.xml"/>
+</xml>

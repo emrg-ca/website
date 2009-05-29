@@ -1,0 +1,17 @@
+<xml xmlns:o="urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef="../projects.htm"/>
+ <o:File HRef="projects_data.xml"/>
+ <o:File HRef="projects_utils.js"/>
+ <o:File HRef="projects.css"/>
+ <o:File HRef="projects_zoom.htm"/>
+ <o:File HRef="lt_off.gif"/>
+ <o:File HRef="lt_over.gif"/>
+ <o:File HRef="rt_off.gif"/>
+ <o:File HRef="rt_over.gif"/>
+ <o:File HRef="projects_nav2.htm"/>
+ <o:File HRef="projects_frames.htm"/>
+ <o:File HRef="projects_gif_1.htm"/>
+ <o:File HRef=""/>
+ <o:File HRef="projects_gif_1.gif"/>
+ <o:File HRef="Filelist.xml"/>
+</xml>

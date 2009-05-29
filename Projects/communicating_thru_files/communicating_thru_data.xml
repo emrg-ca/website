@@ -1,0 +1,372 @@
+<VisioDocument xmlns="urn:schemas-microsoft-com:office:visio">
+	<DocumentProperties>
+		<Title>EMRG Index Page</Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<Shapes>
+				<Shape ID="13" UniqueID="{8AB3C1E1-93EE-4A2B-8B3B-B781B40E8CE2}" Name="Sheet.13" NameU="Sheet.13">
+					<XForm>
+						<PinX Unit="MM">5.019685039370079</PinX>
+						<PinY Unit="MM">31.772747156605433</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{6FACC5BE-9184-4010-9564-5C3B6657D21B}" Name="Sheet.6" NameU="Sheet.6">
+					<Text>1]  Install A Permanent Antenna
+There are buildings that are critical to providing radio communications in an emergency, such as the Emergency Operations Centre and the Red Cross Office. These locations would typically have funding in place and the expectation that a permanent external antenna is required. Other locations that fall into the “might be used” or “back up” solution categories, may not get an antenna due to the cost of installation and the ongoing effort to test the antennas. 
+
+For example, in the City of Ottawa, there are hundreds of buildings that could be required in an emergency. It depends on the area impacted and the nature of the emergency. The cost to install these antennas and the effort for ongoing testing, makes this unrealistic. In many cases, the buildings are not owned by the City, so negotiating antenna installations could be a full time job for something that may never be used.
+
+Small single story Hospitals may not be a problem for antenna installation, but multi floor facilities may be expensive, because the coax cable must be fire rated or installed in conduit and many areas in the Hospital have strict rules on how and when work can be done in the ceiling. If amateur radio is a back up solution for existing systems, it becomes difficult to justify the cost for the installation of a permanent antenna.
+
+2]  Run A Cable Outside To An Antenna
+Commercial buildings, built for the past 20 years or more, have windows made of sealed double glass with a  vacuum or gas between. These building rely on a ventilation system for exchanging the air, so the windows do not open. Most of these buildings have a limited number of doors and access to the building is controlled by keeping some doors locked as part of the ongoing security, so cables cannot be run out the nearest door.
+
+Many amateurs have stated that "in an emergency you can break a window". These windows are typically large and expensive, so the statement is not a suitable answer due to the the cost, hot or cold weather implications and the fact that if the emergency involves something in the air, an open window is not acceptable.
+
+3]  Use A Mobile Radio In A Vehicle With A Runner 
+The best location for the radio operator is with the people who want to send and receive information. As the two become separated, communications is more difficult because they cannot see each other and there is a lag time between message sent and confirmation of the reply.
+
+Security in many buildings further hinders the efforts to constantly enter and exit the building. In an emergency, the hospital may be swamped with people, who they are trying to control. Having someone trying to constantly get through will be a problem.
+
+SARS introduced a new reason why the radio operator must stay in one place. During the height of the SARS outbreak, people were screened at the door and they had to wash their hands. The hand washing remains today in many medical facilities, so having someone going in and out is not going to work.
+</Text>
+					<XForm>
+						<PinX Unit="MM">5.024278215223096</PinX>
+						<PinY Unit="MM">38.209755030621160</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{23A1AD8D-BD10-44B3-B399-F887A02F210D}" Name="Sheet.7" NameU="Sheet.7">
+					<Text>1]  Infrared Transmitter-Receivers
+Assuming that the situation will allow access to both sides of the window (inside and outside) and that it is possible to run a cable from the window inside to where the radio operator is positioned and a cable outside from the window to a packaged radio with power source. The only problem is how to get through the window!
+
+To communicate with a radio, there are three signals required, mic input to the radio, sound out from the radio and PTT to the radio. Using Infrared transmitters and receivers, it may be possible to transmit audio through the glass. On the inside of the window would be a small unit with an IR transmitter for MIC audio to the radio, an IR receiver for audio from the radio and an IR transmitter for PTT to the radio. 
+
+This unit would be attached to the window using a suction cup like the ones used for moving large sheets of glass. On the outside is the opposite configuration with an IR receiver for the MIC signal to the radio, an IR transmitter for audio from the radio and an IR receiver for PTT to the radio.
+
+An alternate approach that may work, is to use a commercial Tone Remote. The control signal for PTT is a tone in the transmit audio path. If this worked, then all that is required is the bi-directional audio paths.
+
+There are some issues such as using short tubes to focus the IR signal to eliminate cross interference and possible use of different wavelengths, to also reduce interference. Some IR circuits simply modulate the diode with the audio, while others are much more stable and use a PLL circuit. With this system, you can go to almost any building and establish a communications system, without running coax through the building and out a door.
+</Text>
+					<XForm>
+						<PinX Unit="MM">5.019685039370078</PinX>
+						<PinY Unit="MM">28.278652668416456</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{32E055E0-0861-4F2B-8669-B670FADF272F}" Name="Sheet.8" NameU="Sheet.8">
+					<Text>  NEW DEPLOYMENT STRATEGIES</Text>
+					<XForm>
+						<PinX Unit="MM">5.019685039370078</PinX>
+						<PinY Unit="MM">33.406605424321960</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{AA11E909-925F-4544-97B4-8B13DD29F225}" Name="Sheet.9" NameU="Sheet.9">
+					<XForm>
+						<PinX Unit="MM">4.945538057742782</PinX>
+						<PinY Unit="MM">44.312117235345575</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{A74D68E7-F6ED-4C60-9B6A-904E60CA577A}" Name="Sheet.10" NameU="Sheet.10">
+					<Text>Amateur radio has traditionally relied on 3 deployment strategies for providing radio communications from a building such as a shelter or hospital;
+
+  1]  Install a permanent antenna at buildings that are known to be required in an emergency
+
+  2]  In an emergency, run a cable outside to a temporary antenna
+
+  3]  Use a mobile radio in a vehicle with a runner to transport messages in and out of the building  
+
+These 3 strategies developed during the cold war era of the 1950s, 60s and into the 70s, but do not hold up well in the world we live in today. There are other strategies that Amateur Radio can use, which will work, but they need to be refined and documented. 
+
+This EMRG Project “Communicating Through Glass” is looking at some options and building prototypes, in an effort to package multiple portable solutions to allow Amateur radio to communicate from almost any building in an Emergency. The solutions are portable, so they can be used anywhere with the City of Ottawa, but they could also be easily transported to offer assistance elsewhere if required.
+
+First, let’s take a look at the traditional approaches;</Text>
+					<XForm>
+						<PinX Unit="MM">4.886482939632544</PinX>
+						<PinY Unit="MM">44.312117235345589</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{C173C8B4-489F-498F-9899-E4BC90A2DB23}" Name="Sheet.11" NameU="Sheet.11">
+					<Text>COMMUNICATING THROUGH GLASS</Text>
+					<XForm>
+						<PinX Unit="MM">4.945538057742783</PinX>
+						<PinY Unit="MM">46.653543307086608</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{36ADB2E8-A6F2-4CF7-B47B-8EBBD6000A48}" Name="Sheet.12" NameU="Sheet.12">
+					<Text>There are several strategies being reviewed, and they are not all related to communicating through glass, but they do provide solutions that separate the radio operator and the RF generation of the radio.</Text>
+					<XForm>
+						<PinX Unit="MM">5.019685039370078</PinX>
+						<PinY Unit="MM">32.663221784776908</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{83B3D16C-9970-46F6-BD9F-9FE88FF04CF0}" Name="Sheet.14" NameU="Sheet.14">
+					<Text>1]  Use a pair of Infrared Transmitter-Receivers, to provide a full duplex audio path through a window
+
+2]  Use audio induction through the glass like a transformer with the glass between the two coils
+
+3]  Use low power RF for the through the glass connection, or through a wall
+
+4]  Use wireless LAN hardware with Voice over IP for audio
+
+5]  Use commercial DC or Tone remote technology so the radio and the user can be separated
+
+6]  Cross-Band Repeaters (Use a portable radio inside the building)</Text>
+					<XForm>
+						<PinX Unit="MM">5.078740157480315</PinX>
+						<PinY Unit="MM">31.438101487314093</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{B9EB490F-266C-41AD-A8B4-FAD4AB71E924}" Name="Sheet.15" NameU="Sheet.15">
+					<Text>IR TX - RX Kit
+North Country Radio</Text>
+					<XForm>
+						<PinX Unit="MM">2.576443569553806</PinX>
+						<PinY Unit="MM">25.867235345581804</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>www.northcountryradio.com\Kitpages\irsyst.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>file://M:\INTERNET\Development Files\Projects\www.northcountryradio.com\Kitpages\irsyst.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="16" UniqueID="{8D7E4C8B-B588-4902-9969-262D4ECC3894}" Name="Sheet.16" NameU="Sheet.16">
+					<Text>IR TX - RX Circuits:  This site has a simple diode modulated circuit as well as a more complicated (stable) circuit for a wireless headphone system.</Text>
+					<XForm>
+						<PinX Unit="MM">6.639545056867890</PinX>
+						<PinY Unit="MM">25.866141732283467</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Infrared TX-RX  Circuits</HLURL:Description>
+										<HLURL:Address>www.commlinx.com.au\ir.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>file://M:\INTERNET\Development Files\Projects\www.commlinx.com.au\ir.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="17" UniqueID="{6329578B-027A-4AC3-B183-DF2B3BCEBC85}" Name="Sheet.17" NameU="Sheet.17">
+					<Text>6] Cross Band Repeater
+In some cases, a cross band repeater in the parking lot with a hand held inside the building is a great solution. But Cross Band repeat can have problems, so there is some work to do before it is used.  Many dual band radios do not support crossband repeat, many that support crossband do it poorly, dual band radios are not designed for significant duty cycles and repeater tails lock out users who are linked by crossband. These issues need pre planning, training and technical work.</Text>
+					<XForm>
+						<PinX Unit="MM">4.970909886264216</PinX>
+						<PinY Unit="MM">4.863298337707794</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{E52283D1-C013-4959-AE9F-7D3B3CDAE3FC}" Name="Sheet.18" NameU="Sheet.18">
+					<Text>2]  Audio Induction
+Transformers induce a signal from one coil onto another. If this concept can be applied using a window as the gap between the coils, then a system similar to the Infrared project could be developed to transfer audio signals through glass. 
+
+There is a similar concept used today to provide sound to people with hearing aids. Certain hearing aids are equipped with a miniature coil to pick up signals from a nearby antenna. These can be used for example in a home to provide audio from the TV or in a theatre. The Transmitter is a device with a long wire attached which is able to induce a signal on the coil inside the hearing aid. Any development in this area will have to ensure that there is no interference with hearing aids.
+
+This project is currently just an idea. Hopefully someone will take it and do some investigation and testing.</Text>
+					<XForm>
+						<PinX Unit="MM">5.019685039370081</PinX>
+						<PinY Unit="MM">21.821412948381461</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{5A7D5C74-6E3A-451B-BC89-36137828D253}" Name="Sheet.19" NameU="Sheet.19">
+					<Text>PROJECT STATUS
+EMRG has purchased two sets of TX/RX kits and they are being put together. Some of the thoughts so far, having not tested them yet, are;
+  a)  Will the beams interfere with each other due to reflections in the window?
+  b)  How stable will the TX/RX units be at different temperatures, such as in the winter or summer?
+  c)  Would it be better to design and  build a unit with an IF that would allow greater stability and 
+       frequency division multiplexing (FDM) to allow more than one system to operate in the same window area.
+  d) Does the TX/RX system offer any options for short range communications, such as getting across an open
+      entrance way or room without running a cable across the floor or ceiling?</Text>
+					<XForm>
+						<PinX Unit="MM">5.098425196850394</PinX>
+						<PinY Unit="MM">24.213692038495200</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{BB4F343C-A99A-4D5E-8459-6FBFD0D31E01}" Name="Sheet.20" NameU="Sheet.20">
+					<Text>3] Low Power RF
+EMRG recently had a couple sets of 49 MHz headsets donated. These are cheap plastic systems designed to allow people to talk over short distances. One idea is to use either these headsets or other RF technology for the link through the window. By using resistive antennas and shielding, the RF radiated into the room would be zero or very close, so it could be used in a hospital environment.
+
+This project is currently just an idea. Hopefully someone will take it and do some investigation and testing.</Text>
+					<XForm>
+						<PinX Unit="MM">5.019685039370079</PinX>
+						<PinY Unit="MM">19.546396544181984</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{143C5445-BDAD-4797-A90A-DC3D13C378CD}" Name="Sheet.21" NameU="Sheet.21">
+					<Text>4] Wireless LAN With VoIP
+The world is wired for the Internet and now there are many off the shelf solutions that allow wireless internet connections. There is also a surge in Voice over Internet Protocol (VoIP) technology for commercial applications and in Amateur radio for IRLP and other Internet voice systems. VoIP is also being used to connect together in-building audio paging and intercom systems and it is being used for commercial radio systems to connect dispatch centres to the radio system. 
+
+JPS Communications, now part of Raytheon, has developed an IP based voice switch that allows multiple radios to be configured together into linked systems for emergency communications. One of their other products is a IP box that plugs into a LAN. With two of these boxes, a radio can be attached to one box and the microphone and audio can be attached to the other. The connection between the boxes can be any wired or wireless LAN. In fact they have developed a system that uses wireless LAN technology with directional antennas, to extend radio systems to tall buildings in an emergency.
+
+Wireless LAN offers potential for shelters, because the wireless equipment is off the shelf, is relatively cheap  and will support data communications for packet radio. If it can also support voice, it would be possible to set up the radio operators anywhere in the shelter, with wireless LAN connecting them to the radios for voice and packet. 
+
+IRLP is a similar application and there are examples of IRLP being deployed as a commercial point to point voice extension, but the problem with IRLP is that it requires a computer and lugging two computers, plus the wireless LAN equipment gets a bit heavy.
+
+Ideally the solution will be appliance based, where the end units are designed to be plugged in and turned on, with no monitor, keyboard or user action required. There are some voice paging solutions that might be economical, but more investigation is required.
+
+This project is currently just an idea. Hopefully someone will take it and do some investigation and testing.</Text>
+					<XForm>
+						<PinX Unit="MM">5.019685039370078</PinX>
+						<PinY Unit="MM">15.886920384951889</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{D3FE09C1-847D-4F24-A3C0-17790C86442D}" Name="Sheet.22" NameU="Sheet.22">
+					<Text>5] DC or Tone Remote
+Commercial radio systems developed a solution long ago to split the physical radio from the radio user. This may be done so that the radio can be installed several miles away on a hill, while the operators are in a building down town. A point to point copper circuit from the phone company connects the two together. Switching was first done using a DC current over the wire. Later systems used tones on the audio path, which are filtered out, so they are not heard on the radio. These systems can also allow multiple operators to share a radio, which is often done for dispatch centres.
+
+EMRG has several of the DC remote systems. Each system has a desk unit with a handset that looks like a phone with no keypad. There is a small circuit board unit that attaches to the radio. The connection from the desk unit to the circuit board, is a 4 wire cable (2 pairs). 
+
+The remote systems are of interest, because it allows the operator to be separated from the radio by up to several thousand feet, without signal loss. If the radio and radio operator are together, there are limits on how much coax can be run to reach the antenna, before there is not signal left. By using the DC remote, a system could be built with a cable reel with 1000ft of stranded 4 pair cable. This is a small cable so it can be easily run across the floor, over things or along the ceiling. The system could be deployed in locations where the cable can be run outside the building, but there is a large distance from the user to the location where the cable can exit.
+
+This same system could be applied at a hospital. Installing coax to the roof is expensive, but it may be possible to have a 2 pair telephone circuit installed from the Hospital EOC (typically a board room) to a location where the radio can be set up with an external antenna. Now when EMRG is deployed, the radio is set up at its location and is plugged into a wall jack, then the desk unit is set up in the board room and is plugged into the wall jack there. The radio and the user may be 2000 ft apart, but the radio is putting all its power into the antenna, not a long cable.
+
+The remote requires two pairs (4 wires) but if the cable has 4 pairs there are 2 pairs left. This solution can be expanded by adding a Limited Distance Data Set (LDDS) to the other 2 pairs. The LDDS allows a terminal or computer to be located at one end and a TNC to be located at the other. Now a shelter can have Voice &amp; Data, with several thousand feet between the radio operators and the radios.
+
+This project only needs to get a roll of 4 pair stranded cable to get started. EMRG has the DC tone remote and a pair of Limited Distance Data Sets.</Text>
+					<XForm>
+						<PinX Unit="MM">4.970909886264217</PinX>
+						<PinY Unit="MM">9.686132983377085</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{365E1AD2-7BC1-4C52-AA2C-2B3D62A12047}" Name="Sheet.23" NameU="Sheet.23">
+					<Text>Here is an article on Tone Remotes, published by Vega</Text>
+					<XForm>
+						<PinX Unit="MM">3.002405949256342</PinX>
+						<PinY Unit="MM">6.102362204724417</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Tone Remote Article</HLURL:Description>
+										<HLURL:Address>http://www.vega-signaling.com/toneapp.html</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.vega-signaling.com/toneapp.html</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="24" UniqueID="{F0A20177-53FB-4EF2-B0A5-10CCBDA498DE}" Name="Sheet.24" NameU="Sheet.24">
+					<Text>More information is available in the Cross-Band repeater training session presentation.</Text>
+					<XForm>
+						<PinX Unit="MM">4.183508311461067</PinX>
+						<PinY Unit="MM">3.879046369203857</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Cross Band Repeater Training Session Presentation</HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca/crossband.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca/crossband.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="25" UniqueID="{EBB15E9F-04F2-4662-8CC5-985C24CF5A57}" Name="Sheet.25" NameU="Sheet.25">
+					<XForm>
+						<PinX Unit="MM">4.980314960629921</PinX>
+						<PinY Unit="MM">49.862204724409452</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{CEC43FF0-452F-40A3-9482-9CA75E8B0003}" Name="Sheet.3" NameU="Sheet.3">
+					<Text>Emergency Measures Radio Group
+Ottawa ARES
+- Two Names, One Group, One Purpose -
+
+Service de liaison radio en cas d'urgence</Text>
+					<XForm>
+						<PinX Unit="MM">4.763779527559056</PinX>
+						<PinY Unit="MM">1.023622047244086</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{836A7884-760B-44CE-8490-94F2E9AA1A3F}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>Volunteer Emergency Radio Communications -Serving Ottawa Canada</Text>
+					<XForm>
+						<PinX Unit="MM">4.566929133858269</PinX>
+						<PinY Unit="MM">0.138888888888882</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>City of Ottawa Home Page</HLURL:Description>
+										<HLURL:Address>http://www.ottawa.ca</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.ottawa.ca</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="26" UniqueID="{6356DC33-1D69-4724-8977-8558DB50EB76}" Name="Sheet.26" NameU="Sheet.26">
+					<Text>The purpose of the information and projects on this page is to get Amateurs to think about the challenges in deploying a radio in an emergency. If you are not able to put the radio operator where they are required, are you really providing a “valuable service”. If the radio operator is in a corner, away from the people who need radio communications, is that an effective solution? Not all problems can be anticipated or solved, but we can work on problems that we know exist, using solutions that we think might work. </Text>
+					<XForm>
+						<PinX Unit="MM">4.945538057742783</PinX>
+						<PinY Unit="MM">47.972440944881882</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="27" UniqueID="{22CC7A2F-7833-40B7-AF76-69BA38528D70}" Name="Sheet.27" NameU="Sheet.27">
+					<XForm>
+						<PinX Unit="MM">2.214566929133858</PinX>
+						<PinY Unit="MM">2.608267716535433</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://www.emrg.ca</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.emrg.ca</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="28" UniqueID="{23CA5F5C-A434-4A6D-A471-0C7E48791200}" Name="Smiling face" NameU="Smiling face" Master="5">
+					<XForm>
+						<PinX Unit="MM">0.246062992125984</PinX>
+						<PinY Unit="MM">0.246062992125984</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="31" UniqueID="{34BA2F52-962A-4B5A-BE3A-444FA8BAF193}" Name="Sheet.31" NameU="Sheet.31">
+					<Text>EMRG Home Page</Text>
+					<XForm>
+						<PinX Unit="MM">1.635717410323710</PinX>
+						<PinY Unit="MM">0.196850393700787</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

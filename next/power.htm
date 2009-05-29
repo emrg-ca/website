@@ -1,0 +1,180 @@
+<HTML>
+
+<HEAD>
+    <TITLE>Power</TITLE>
+    <link REL="stylesheet" TYPE="text/css" HREF="shared/style.css">
+    <script language="javascript" src="shared/corefunctions.js"></script>
+</HEAD>
+
+<BODY>
+
+
+
+
+<h2><a NAME="DC & AC Power"></a>DC and AC Power</h2>
+
+The basic requirement for providing amateur radio communications is
+a radio and a means to power that radio. The power can come from a power
+supply or from batteries or both. The AC power for the power supply can
+come from the power grid or from a generator or both.
+
+<p>Power systems may have backup solutions and these solutions can be manually
+or automatically activated. An example of a manual backup system is a power
+supply and a battery. The back up solution may be to unplug the radio from
+the power supply and plug into the battery if the AC power fails. The manual
+solution can be automated if the power supply is set up to keep the battery
+charged and to automatically power the radio from the battery if the AC
+fails.
+
+<p>The size of battery backup varies by application. In a building with
+a built in generator, the battery backup may be small (1 hour). If the
+AC power fails, the battery powers the radio during the 30 to 60 seconds
+it takes the generator to sense the AC failure and come on line. The minimum
+1 hour back up capacity keeps the radio running if the generator does not
+start. The outage period is longer as maintenance staff works to start
+the generator, but there is time for additional battery power to be delivered
+to keep the radio running if required. Other locations may not have any
+electricity or the potential outage period may be much longer as portable
+generators are brought in, so a larger battery capacity is required.
+
+<p>Computers add another challenge, since they typically run off AC power
+and they can be damaged by spikes on their power. Laptop computers have
+batteries, but the operating time on battery is only a few hours on good
+batteries and most amateurs are using older laptops which have less battery
+capacity due to age. If the AC power fails, there are devices for generating
+110VAC from a battery source. The simplest solution is an inverter, which
+connects to the battery and provides an AC outlet. These are available
+from many sources. The more elaborate solution is a UPS (Uninterrupted
+Power Supply). The UPS provides power conditioning on the normal AC power,
+internal batteries and automatic switching if the AC power fails.
+
+<p>One more important component of any solution with backup power, is light.
+If the power fails, the radio operator will be in darkness or near darkness.
+Even for 30 to 60 seconds, this may interrupt or degrade the operation.
+Adding a small 50 watt inverter and lamp with a screw in 15 watt fluorescent
+bulb to the system, ensures that there will be lighting, even if the power
+fails.
+
+<h3>Modular Power System</h3>
+
+This project defines a modular power system that can be deployed as
+individual components, or as a complete system. The full system would be
+deployed for example at a shelter where there is voice radio operations
+as well as computer based communications.
+
+<h4>Modules</h4>
+
+<ol>
+
+<li>Power Supply
+<br>The power supply module is intended to operate a radio at a site that
+has AC power, but provides a short term (approximately 1 hour) battery backup. The
+battery is charged by the power supply, using a
+<a href="pwr_supply_gelcell_charger.htm">modification
+to the power supply</a>. This module also includes a 50 watt inverter to
+power a 15 watt fluorescent lamp. The wiring is included, to be able to
+add more battery power if required. The power supply module is for use
+in sites that have a built in generator backup, where interruptions would
+be least likely and short duration. IF the power fails, the radio continues
+to operate and there is light for the radio operator.
+</li>
+
+<li>Battery
+<br>Long term operation requires a deep cycle battery, such as used in
+marine applications. The basic deep cycle battery is missing some components
+for use as a backup battery. Installing the battery in a container provides
+some protection and makes it easier to carry. The battery will require
+an automatic charger, to charge it when it needed and to float charge it
+for long term maintenance. Standard connectors with fuses are also required
+and a voltmeter is a useful addition. The battery module is fully self
+contained, with its own attached charger, so it can be used to power a
+radio at sites that do not have AC power. For locations that are using
+the Power Supply module, but that require additional battery power, the
+Battery module plugs in to add the extra capacity.
+</li>
+
+<li>AC Module
+<br>There are two issues for AC power; getting power and providing power.
+Getting power involves plugging into the wall. For sites with an external
+generator, two plugs are required, with a means to switch between the two
+sources. Incoming power may not be clean, due to storms or the condition
+of the generator, so some filtering on incoming power is a good idea.
+
+<p>Providing power means ensuring enough outlets with filtered power, switching
+between sources of power, so the end user equipment does not know and providing
+power AC power from a battery and UPS or Inverter, to cover periods when
+there is no other source of AC power.
+</li>
+
+</ol>
+
+<h2><a NAME="DC Load Tester"></a>DC Load Tester</h2>
+
+Questions are often asked about DC power. For example, how long will
+battery A last? Will the power supply really handle 10A? The tool for answering
+these questions is a DC load tester. The load tester applies a load to
+the battery or power supply, simulating a radio or other device connected,
+drawing a specific amp rating.
+
+<p>There are suggestions for load testers, such as car headlights and large
+resistors, but these solutions have some drawbacks such as heat, how to
+protect them, the current changes over time and how to select the amp value
+you want to test. In an e-mail list, Jeff Steinkamp (N7YG) recently posted
+a design that he prepared, for a solid state load tester.
+<a href="http://home.earthlink.net/~n7yg/el-1200.htm">http://home.earthlink.net/~n7yg/el-1200.htm</a>
+
+<p>The load tester functionality could be expanded with a few additional components.
+
+<ol>
+
+<li>Variable Duty Cycle Controller
+<br>Using a timer to turn the load tester on and off, a battery could be
+tested to see how long it will last with a 10 amp load and a 40% duty cycle
+(talk 20 seconds, listen 40 seconds).
+</li>
+
+<li>Low Voltage Cut Off Sensor
+<br>Using a reference voltage (you need power to run fans anyway), a low
+voltage cutout could be set up, so when testing a battery, the battery
+cannot be drained below the reference voltage.
+</li>
+
+<li>Discharge Duration Timer
+<br>With the variable rate duty cycle to turn the load tester on and off,
+plus the voltage sensor to turn the system off once the battery reached
+its low voltage limit, adding a simple clock would tell how long the battery
+was tested. The clock would start at 0 when the test started and would
+stop counting (but not clear the display) when the low voltage cut off
+stopped the test. Now it is possible to know how long the battery would
+last with the 10 A load and 40% duty cycle.
+</li>
+
+<li>Charger Control
+<br>Most batteries have a charger and it would be nice to know how long
+it takes for the battery to charge from its discharged state. Adding a
+switch for AC power, the battery charger can be turned on and off by the
+load tester. When the test starts, the AC power to the charger is cut off.
+The battery drains during the test, but when the low voltage cut off is
+reached, the AC is turned back on and the load test is terminated, so the
+battery will be recharged.
+</li>
+
+</ol>
+
+<p>With another voltage reference, set to the value for a fully charged
+battery, then it is possible to know when the battery is fully charged.
+Add another duration timer, that starts at 0 when the AC power is turned
+on for the charger and which stops (but not clear the display) when the
+battery full charge reference is reached. Now it is possible to automate
+the test of the battery, including draining the battery under load and
+then charging it back up.
+
+
+
+
+
+
+
+
+</BODY>
+</HTML>

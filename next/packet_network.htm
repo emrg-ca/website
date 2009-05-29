@@ -1,0 +1,210 @@
+<HTML>
+
+<HEAD>
+    <TITLE>EMRG Packet Network</TITLE>
+    <link REL="stylesheet" TYPE="text/css" HREF="shared/style.css">
+    <script language="javascript" src="shared/corefunctions.js"></script>
+</HEAD>
+
+<BODY>
+
+
+
+
+
+
+
+<h1>EMRG Packet Network</h1>
+
+<center>This page shows the actual network that EMRG currently has working.
+As the network changes, this page will be updated.</center>
+
+
+<h2>Current Network</h2>
+
+The current EMRG Network is a basic network implementation to allow testing of different
+software and configuration ideas. Anyone wanting to test their packet equipment can use
+the network to ensure their equipment is working.
+
+<table align="center">
+  <tr>
+    <td>
+      <b><u>Permanent Stations</u></b><br>
+        VE3OCE - Digipeater<br>
+        VE3OCE-1 - Ops Position 1<br>
+        VE3OCE-2 - Ops Position 2<br>
+        VE3OCE-11 - City Hall EOC<br>
+        VE3BQP-7 - Home Station<br>
+        VE3BQP-1 - Telpac Gateway
+    </td>
+
+    <td>
+        <IMG align="right" border="0" src="packet_network_files/network_gif_4.gif">
+    </td>
+  </tr>
+</table>
+
+<p><center>Call sign = VE3OCE<br>Alias = EMRG</center>
+
+<p><center><IMG width="600" border="0" src="packet_network_files/packet_nodes.jpg"></center>
+
+<h2 align="left">Digipeater</h2>
+
+When two packet stations cannot communicate directly, they can use a
+Digipeater (Digital Repeater) or a Node to relay through, to connect to each other.
+The Digipeater or node must be able to communicate with both stations,
+listening to one station and then repeating the message for the other
+station to hear. There are differences between how a Digipeater and a
+node function, but they both provide a similar  capability.
+
+<p>EMRG has established a Digipeater called VE3OCE. The digipeater is not a
+station that can be connected to. When connecting to a station that
+cannot be heard directly, the user adds a VIA statement to their connect
+command. For example if VE3BQP-7 wants to communicate directly with VE3OCE-11,
+the following command would be used;  <pre>c ve3oce-11</pre>
+
+<p>If VE3OCE-11 does not respond, then VE3BQP-7 can use the digipeater to connect.
+The connect command would now look like this; c ve3oce-11 v ve3oce.
+The v stands for via, meaning that VE3BQP-7 is trying to connect to VE3OCE-11,
+via the digipeater VE3OCE. The digipeater has an Alias, EMRG, which can be
+used in place of the call sign VE3OCE. The connect command using the alias
+would be; <pre>     c ve3oce-11 v emrg</pre>
+
+<h2>Beacons</h2>
+
+Beacons are automated transmissions which can be used to send information or identify specific stations.
+
+<br>There are two beacons on the EMRG network;
+
+<p>VE3OCE-2: Sends a text message beacon every 5 minutes   -
+
+<blockquote>
+<font color="blue">
+EMRG-Ottawa ARES<br>
+Local Emergency Packet Network<br>
+145.030MHz - Ottawa Canada<br>
+If you want to operate a BBS, gateway, or beacon, <br>
+we encourage you to please move to another frequency.<br>
+ve3oce@rac.ca   www.emrg.ca
+</font>
+</blockquote>
+
+<p>VE3OCE:    Sends a text message beacon every 30 minutes -
+<blockquote>
+<font color="blue">
+Emergency Measures Radio Group - EMRG (Ottawa ARES)<br>
+Emergency Packet Network  - 145.030 MHZ<br>
+Digipeater: VE3OCE   Alias = EMRG<br>
+Telpac Node: VE3BQP-1  (www.winlink.org for info)<br>
+Communications Centre Ops Positions: VE3OCE-1,  VE3OCE-2<br>
+Questions: ve3oce@rac.ca
+</font>
+</blockquote>
+
+<p>In an emergency, the beacons will be turned off to avoid needless data collisions.
+
+<h2>Software</h3>
+
+There are several individual pieces of software running on the EMRG packet network.
+The software is either end user packet terminal software or network software.
+
+<h3>AGW Packet Engine Pro</h3>
+
+The EMRG Communications Centre is located in a dedicated room at Fire Dispatch.
+This is the main communications site for EMRG and is the main site for the packet network.
+There is only 1 TNC on 145.030 MHz, but several users of that TNC.
+The TNC is shared using AGW Packet Engine Pro, which is installed on the
+same computer as the TNC. AGWPE Pro communicates through the TNC
+and creates virtual TNCs within the computer that end user software
+packages can use. The packet terminal software communicates through
+a dedicated virtual TNC, with it's own unique call sign, so it looks
+like a station with a dedicated TNC and radio.
+
+<p>Each TNC is a port in AGWPE Pro and there can be multiple ports (TNCs)
+for different applications (i.e. Packet and APRS). There is also a loop-back port,
+which allows users to connect to each other over the LAN, without going out on the radio.
+This is useful if two users are located on different floors.
+
+<h3>AGWDigi</h3>
+
+The digipeater, VE3OCE, operates on the same computer as AGW Packet Engine Pro
+and works with AGWPE Pro to share the single TNC. The AGWDigi software was
+written by the same person that wrote AGWPE Pro. The digipeater simply takes
+packets that come in addressed to it and repeats them back out on the same port.
+There is no gateway function to link between ports.</Text>
+
+
+<h3>AGWTerm-TCP</h3>
+
+AGWTerm-TCP is a packet terminal program which can connect to an
+AGWPE Pro virtual TNC across a LAN. The software was written by the same
+person who wrote AGWPE Pro. There are two other packet terminal packages
+that can work with AGWPE Pro, but only if they are installed
+on the same PC as AGWPEPro.
+AGWTerm-TCP is the only packet terminal program found so far that can communicate
+across a computer network to AGWPEPro.
+
+
+<h3>WinPack</h3>
+
+WinPack is a packet terminal program which can be used on a computer directly
+connected to a TNC or on a computer that has AGWPE Pro.
+The program is focused on BBS connectivity, which EMRG is not using,
+but the program supports file transfer and keyboard to keyboard text
+communications as well.
+
+<p>WinPack can be used for the first computer in the EMRG Communications Centre,
+running on the same PC as AGWPE Pro and it can be used on single TNC stations
+such as the Red Cross or the portable Shelter stations. The objective is to
+have a common standard used as often as possible.
+
+
+
+<h2>Hardware</h2>
+
+The current network has been built from parts that were already
+owned by EMRG or have been donated for this project.
+There have been some issues with the versions of TNC firmware, where some
+TNCs are old enough that they do not support KISS, so they cannot be used
+with AWG Packet Engine.
+
+<h3>TNC</h3>
+
+While there are TNCs that support Node functions, Personal BBS and other
+value add capabilities, the current EMRG packet network does not require them.
+The only TNC feature that is important, is KISS mode for the TNCs that are used
+with AGWPE Pro.
+
+<p>The TNC at the EMRG Communications Centre, is a AEA TimeWave PK12 which was donated to EMRG.
+
+<p>The EOC is in transition, currently using a Kantronics KPC-2, but soon to be
+using a Kantronics KPC-3 with AGW Packet Engine. There is one portable system at this time,
+with a Kantronics KPC-2 and the Red Cross will be using a AEA TimeWave PK-88.
+
+<p>EMRG also has a AEA PK900, a dual port TNC which can operate as two independent TNCs
+through a common serial RS232 computer connection. This TNC can be used with
+AGWPE Pro on both ports, one for 145.030 MHz and one for testing a dedicated
+packet link to the Emergency Operations Centre on the 220 MHz band for example.
+The TNC can also be used with a VHF and UHF radio to provide a cross-band gateway.
+
+<h2>Radios</h2>
+
+There are a mix of radios used by EMRG for packet. The main 145.030 MHz station
+at the EMRG Communications Centre is a Motorola Radius M120, 2 channel mobile.
+The other station at this location is a Kenwood tri-band TM-742A mobile.
+It is used for packet because it has 220 MHz and 440 MHz, which allows testing
+of a parallel  dedicated packet link to the EOC. There is a second Motorola Radius
+at the EMRG Communications Centre, for use on APRS.
+
+<p>The Emergency Operations Centre at City hall, is also using a Kenwood tri-band radio.
+The portable system is using a Motorola Radius M120 and the Red Cross is using a
+Kenwood TM-2530 VHF mobile.
+
+
+
+
+
+
+
+</BODY>
+</HTML>

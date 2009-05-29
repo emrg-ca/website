@@ -1,0 +1,61 @@
+<html>
+<head>
+<LINK REL="stylesheet" TYPE="text/css" HREF="projects.css">
+<title>
+EMRG Projects Page
+</title>
+
+<script src="projects_utils.js"></script>
+<script>
+<!--
+var pageID = 0;
+
+function BodyOnLoad ()
+{
+	var pageIndex = PageIndexFromID (pageID);
+	if (pageIndex >= 0)
+	{
+		PageUpdated(pageIndex);
+	}
+}
+
+//-->
+</script>
+</head>
+
+<body class="pageView" bgcolor="#FFFFFF" onload="BodyOnLoad()" onclick="clickMenu()">
+<base target="_top">
+
+<div id=menu1 
+  onclick="clickMenu()" 
+  onmouseover="toggleMenu()" 
+  onmouseout="toggleMenu()" 
+  style="position:absolute; 
+         display:none; 
+         border: 2px outset black; 
+         width:220; 
+         background-color:menu; 
+		 z-index:10"> 
+</div> 
+
+<DIV id=RasterDiv>
+
+<center>
+  <IMG SRC="projects_gif_1.gif" ALT="" BORDER="0" USEMAP="#visImageMap">
+</center>
+
+<MAP NAME="visImageMap">
+  <AREA shape="POLYGON" ALT="http://www.emrg.ca" TITLE="http://www.emrg.ca" HREF="http://www.emrg.ca" COORDS=" 39,749 39,750 39,751 39,751 39,752 39,752 39,753 39,753 39,754 39,754 39,755 40,756 40,756 40,757 40,757 41,758 41,758 41,759 41,759 42,760 42,760 42,761 43,761 43,762 43,762 44,762 44,763 45,763 45,764 46,764 46,764 47,765 47,765 47,765 48,765 48,766 49,766 50,766 50,766 51,767 51,767 52,767 52,767 53,767 53,767 54,768 54,768 55,768 56,768 56,768 57,768 57,768 58,768 58,768 59,768 60,768 60,768 61,767 61,767 62,767 62,767 63,767 64,767 64,766 65,766 65,766 66,766 66,765 67,765 67,765 68,765 68,764 69,764 69,764 69,763 70,763 70,762 71,762 71,762 71,761 72,761 72,760 72,760 73,759 73,759 73,758 74,758 74,757 74,757 74,756 74,756 75,755 75,754 75,754 75,753 75,753 75,752 75,752 75,751 75,751 76,750 76,749 76,749 75,748 75,748 75,747 75,747 75,746 75,745 75,745 75,744 75,744 74,743 74,743 74,742 74,742 74,741 73,741 73,740 73,740 72,739 72,739 72,738 71,738 71,737 71,737 70,736 70,736 69,736 69,735 69,735 68,735 68,734 67,734 67,734 66,733 66,733 65,733 65,732 64,732 64,732 63,732 62,732 62,732 61,731 61,731 60,731 60,731 59,731 58,731 58,731 57,731 57,731 56,731 56,731 55,731 54,731 54,731 53,731 53,731 52,732 52,732 51,732 51,732 50,732 50,732 49,733 48,733 48,733 47,734 47,734 47,734 46,735 46,735 45,735 45,736 44,736 44,736 43,737 43,737 43,738 42,738 42,739 42,739 41,740 41,740 41,741 41,741 40,742 40,742 40,743 40,743 39,744 39,744 39,745 39,745 39,746 39,747 39,747 39,748 39,748 39,749 39,749"  >
+  <AREA shape="POLYGON" ALT="http://www.emrg.ca" TITLE="http://www.emrg.ca" HREF="http://www.emrg.ca" COORDS=" 89,742 89,762 216,762 216,742 89,742"  >
+  <AREA shape="POLYGON" ALT="Link to NHRC Repeater Controller Web Page" TITLE="Link to NHRC Repeater Controller Web Page" HREF="http://www.nhrc.net/nhrc-4mvp/" COORDS=" 129,660 259,660 259,574 129,574 129,660"  >
+  <AREA shape="POLYGON" ALT="http://www.northcountryradio.com/Kitpages/pirsyst.htm" TITLE="http://www.northcountryradio.com/Kitpages/pirsyst.htm" HREF="http://www.northcountryradio.com/Kitpages/pirsyst.htm" COORDS=" 323,414 368,414 368,397 164,397 164,414 209,414 209,429 323,429 323,414"  >
+  <AREA shape="POLYGON" ALT="Ways to extend the radio from the user" TITLE="Ways to extend the radio from the user" HREF="http://www.emrg.ca/Projects/communications_thru_glass.htm" COORDS=" 8,324 105,324 105,324 106,324 106,324 106,324 107,324 107,324 107,324 108,324 108,323 108,323 108,323 109,323 109,323 109,322 109,322 110,322 110,322 110,322 110,321 110,321 110,321 111,320 111,320 111,320 111,319 111,319 111,319 111,319 111,318 111,286 111,285 111,285 111,285 111,284 111,284 111,284 111,283 110,283 110,283 110,283 110,282 110,282 110,282 109,282 109,281 109,281 109,281 108,281 108,281 108,280 108,280 107,280 107,280 107,280 106,280 106,280 106,280 105,280 105,280 8,280 7,280 7,280 7,280 6,280 6,280 6,280 5,280 5,280 5,280 4,281 4,281 4,281 4,281 3,281 3,282 3,282 3,282 3,282 2,283 2,283 2,283 2,283 2,284 2,284 2,284 2,285 2,285 2,285 2,286 2,318 2,319 2,319 2,319 2,319 2,320 2,320 2,320 2,321 2,321 2,321 3,322 3,322 3,322 3,322 3,322 4,323 4,323 4,323 4,323 5,323 5,324 5,324 6,324 6,324 6,324 7,324 7,324 7,324 8,324"  >
+  <AREA shape="POLYGON" ALT="City of Ottawa Home Page" TITLE="City of Ottawa Home Page" HREF="http://www.ottawa.ca" COORDS=" 135,112 135,129 554,129 554,112 135,112"  >
+</MAP>
+
+
+
+</DIV>
+
+</body>
+</html>

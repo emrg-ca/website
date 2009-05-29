@@ -1,0 +1,427 @@
+<VisioDocument xmlns="urn:schemas-microsoft-com:office:visio">
+	<DocumentProperties>
+		<Title>EMRG Index Page</Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="1 packet_index" NameU="index">
+			<Shapes>
+				<Shape ID="33" UniqueID="{534842FD-B5AB-4A50-9912-7DEF028518D9}" Name="Sheet.33" NameU="Sheet.33">
+					<Text>EMRG PACKET TEST NETWORK OPERATIONAL
+
+145.030 MHz
+
+Permanent Stations
+VE3OCE-1 - Ops Position 1
+VE3OCE-2 - Ops Position 2
+VE3OCE-11 - City Hall EOC
+VE3BQP-1 - Telpac Node
+VE3BQP-7 - Home Station
+
+
+Digipeater
+Callsign = VE3OCE
+Alias = EMRG</Text>
+					<XForm>
+						<PinX Unit="MM">3.188976377952756</PinX>
+						<PinY Unit="MM">5.789588801399822</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{89D1ADA8-BCFB-4945-9637-53FA97FF64D2}" Name="Sheet.4" NameU="Sheet.4">
+					<XForm>
+						<PinX Unit="MM">4.980314960629920</PinX>
+						<PinY Unit="MM">10.078740157480315</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="1" UniqueID="{FF929D45-1E11-45B4-A8B5-59593009AEF1}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="MM">1.306485126859141</PinX>
+						<PinY Unit="MM">10.094662246736485</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{A2EE85CA-8E38-4007-A6BF-19E956E48C6E}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="MM">8.917170698924732</PinX>
+						<PinY Unit="MM">10.094652230971128</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{CEC43FF0-452F-40A3-9482-9CA75E8B0003}" Name="Sheet.3" NameU="Sheet.3">
+					<Text>Emergency Measures Radio Group
+Ottawa ARES
+- Two Names, One Group, One Purpose -
+
+Service de liaison radio en cas d'urgence</Text>
+					<XForm>
+						<PinX Unit="MM">5.157480314960630</PinX>
+						<PinY Unit="MM">10.078740157480318</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{836A7884-760B-44CE-8490-94F2E9AA1A3F}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>Volunteer Emergency Radio Communications -Serving Ottawa Canada</Text>
+					<XForm>
+						<PinX Unit="MM">4.960629921259843</PinX>
+						<PinY Unit="MM">9.194006999125110</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>City of Ottawa Home Page</HLURL:Description>
+										<HLURL:Address>http://www.ottawa.ca</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.ottawa.ca</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="13" UniqueID="{E9324F95-5231-4E7D-9F6D-D30AFFB1EFA1}" Name="Sheet.13" NameU="Sheet.13">
+					<XForm>
+						<PinX Unit="MM">4.940944881889763</PinX>
+						<PinY Unit="MM">7.856517935258092</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{044BF821-D8C2-4B52-9B47-C5DDC4030540}" Name="Sheet.18" NameU="Sheet.18">
+					<Text>EMRG Packet Requirements</Text>
+					<XForm>
+						<PinX Unit="MM">1.043307086614174</PinX>
+						<PinY Unit="MM">6.852580927384075</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Packet Network Design Requirements</HLURL:Description>
+										<HLURL:Address>requirements.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>file://M:\INTERNET\Web Site Development Files\packet\requirements.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="19" UniqueID="{294D63F6-E6B2-46B7-8C72-3DCD7537FF4C}" Name="Sheet.19" NameU="Sheet.19">
+					<Text>Long Term Network Vision </Text>
+					<XForm>
+						<PinX Unit="MM">1.043307086614173</PinX>
+						<PinY Unit="MM">6.196289916885389</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Long Term Network Vision</HLURL:Description>
+										<HLURL:Address>vision.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>file://M:\INTERNET\Web Site Development Files\packet\vision.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="22" UniqueID="{A536282F-24D4-4361-BA3D-415A298FD92F}" Name="Sheet.22" NameU="Sheet.22">
+					<Text>Packet Software</Text>
+					<XForm>
+						<PinX Unit="MM">1.043307086614174</PinX>
+						<PinY Unit="MM">5.649606299212598</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Packet Software List</HLURL:Description>
+										<HLURL:Address>software.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>file://M:\INTERNET\Web Site Development Files\packet\software.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="23" UniqueID="{78724CA0-DEBA-4026-B95E-99EF7EDD82A2}" Name="Sheet.23" NameU="Sheet.23">
+					<Text>Packet Radio
+Web Site Links</Text>
+					<XForm>
+						<PinX Unit="MM">1.043307086614174</PinX>
+						<PinY Unit="MM">5.127952755905511</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Packet Radio Web Links</HLURL:Description>
+										<HLURL:Address>web_links.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>file://M:\INTERNET\Web Site Development Files\packet\web_links.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="24" UniqueID="{CA63A4EA-3CC7-4C2B-9863-53766453C0D6}" Name="Sheet.24" NameU="Sheet.24">
+					<Text>Sound Card Packet</Text>
+					<XForm>
+						<PinX Unit="MM">1.043307086614173</PinX>
+						<PinY Unit="MM">4.527559055118110</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Sound Card Packet Web Site</HLURL:Description>
+										<HLURL:Address>http://patmedia.net/ralphmilnes/soundcardpacket/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://patmedia.net/ralphmilnes/soundcardpacket/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="25" UniqueID="{BDA31BCD-4D36-4F94-948D-B438003EF34B}" Name="Sheet.25" NameU="Sheet.25">
+					<Text>EMRG Packet Network</Text>
+					<XForm>
+						<PinX Unit="MM">1.043307086614174</PinX>
+						<PinY Unit="MM">7.529527559055118</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Current EMRG Packet Network</HLURL:Description>
+										<HLURL:Address>network.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>file://M:\INTERNET\Web Site Development Files\packet\network.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="26" UniqueID="{881AAE16-7C7B-4202-B10D-4F86259334C9}" Name="Sheet.26" NameU="Sheet.26">
+					<Text>EMRG is not trying to revive packet radio or re-build the packet network that once existed in Ottawa. The EMRG network is intended to provide the best operation possible for it’s dedicated task, which is providing emergency communications within the City of Ottawa, from shelters, the Red Cross and the EOC. EMRG would like to thank the packet operators in the Ottawa area for keeping the 145.030 MHz frequency dedicated for this task.</Text>
+					<XForm>
+						<PinX Unit="MM">5.019685039370077</PinX>
+						<PinY Unit="MM">2.913385826771654</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="27" UniqueID="{1163F72E-D8C9-4651-AD70-690B21E9F03A}" Name="Sheet.27" NameU="Sheet.27">
+					<Text>Introduction to Packet Radio by TAPR</Text>
+					<XForm>
+						<PinX Unit="MM">1.181102362204724</PinX>
+						<PinY Unit="MM">8.346456692913385</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>TAPR Introduction To Packet Radio</HLURL:Description>
+										<HLURL:Address>http://www.tapr.org/tapr/html/Fpktfaq.html</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.tapr.org/tapr/html/Fpktfaq.html</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="28" UniqueID="{7497BEB6-D7C5-408C-ADCA-4879ECC80772}" Name="Sheet.28" NameU="Sheet.28">
+					<Text>INTRODUCTION TO PACKET RADIO
+By Larry Kenney, WB9LOZ</Text>
+					<XForm>
+						<PinX Unit="MM">3.641732283464566</PinX>
+						<PinY Unit="MM">8.346456692913385</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>INTRODUCTION TO PACKET RADIO</HLURL:Description>
+										<HLURL:Address>http://www.choisser.com/packet/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.choisser.com/packet/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="16" UniqueID="{FF575DFB-4644-455D-A707-CEC095295A0B}" Name="Sheet.16" NameU="Sheet.16">
+					<XForm>
+						<PinX Unit="MM">9.566929133858267</PinX>
+						<PinY Unit="MM">5.798337707786526</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="35" UniqueID="{44602790-2911-40D3-A7E9-568087815D45}" Name="Question mark" NameU="Question mark" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.035433070866141</PinX>
+						<PinY Unit="MM">2.062007874015748</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="36" UniqueID="{9ABAA5EE-3C6D-44D0-8375-288217343B54}" Name="Sheet.36" NameU="Sheet.36">
+					<Text>
+					</Text>
+					<XForm>
+						<PinX Unit="MM">0.098425196850394</PinX>
+						<PinY Unit="MM">0.147637795275591</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="38" UniqueID="{651E8477-65B9-4A13-92B8-11BEFC2C22C6}" Name="Sheet.38" NameU="Sheet.38">
+					<Text>VE3OCE@RAC.CA</Text>
+					<XForm>
+						<PinX Unit="MM">5.118110236220472</PinX>
+						<PinY Unit="MM">2.053258967629046</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{407C277B-3323-4409-8BFB-E253EB03DB40}" Name="Sheet.34" NameU="Sheet.34">
+					<Text>Click Here for Details</Text>
+					<XForm>
+						<PinX Unit="MM">3.149606299212598</PinX>
+						<PinY Unit="MM">4.015966754155730</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Packet Radio Network</HLURL:Description>
+										<HLURL:Address>network.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>file://M:\INTERNET\Web Site Development Files\packet\network.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="15" UniqueID="{08CCAA73-C4B0-48DF-957D-2157E6F94A53}" Name="Sheet.15" NameU="Sheet.15">
+					<XForm>
+						<PinX Unit="MM">5.767716535433070</PinX>
+						<PinY Unit="MM">5.789588801399824</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{F334D4C9-71E7-491A-9945-0A4E24413DA6}" Name="Sheet.7" NameU="Sheet.7">
+					<Text>
+
+
+
+Packet Radio use has been in decline since the early to mid 90s, as the Internet became common place and the typical 9600 baud Packet Radio backbone links connecting cities and towns together  couldn't handle the load.  
+
+While many hams believe packet radio is dead, it still has incredible value for emergency communications, if viewed as a method to provide a wireless link for the "Local Loop" or “Last Mile” to shelters and other key emergency sites. 
+
+The EMRG objective for Packet Radio is to build a dedicated emergency network within the City of Ottawa, to support communications between permanent and temporary emergency sites. The network must be simple to operate and easy to maintain. This will be a controlled network with limited users, designed to provide direct communications point to point.</Text>
+					<XForm>
+						<PinX Unit="MM">6.988188976377952</PinX>
+						<PinY Unit="MM">5.789588801399824</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{19273608-0FBF-46A5-9937-D221BB5DAB01}" Name="Sheet.10" NameU="Sheet.10">
+					<Text>Packet Radio
+Still A Viable Emergency Communications Solution, Which Is Much Better Than Voice For Sending Lists Of Information</Text>
+					<XForm>
+						<PinX Unit="MM">6.988188976377953</PinX>
+						<PinY Unit="MM">7.384076990376203</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{01F5A41F-5F3C-4CF9-8D1C-CFCF7E416A37}" Name="Sheet.6" NameU="Sheet.6">
+					<Text>Packet Radio and the International Space Station (ISS)</Text>
+					<XForm>
+						<PinX Unit="MM">6.417322834645669</PinX>
+						<PinY Unit="MM">8.346456692913385</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>International Space Station Packet Radio</HLURL:Description>
+										<HLURL:Address>http://www.rac.ca/ariss/arispak2.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.rac.ca/ariss/arispak2.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="8" UniqueID="{B53AD7FF-0257-495B-BE90-6FCACD6640CF}" Name="Sheet.8" NameU="Sheet.8">
+					<Text>PACKET RADIO  </Text>
+					<XForm>
+						<PinX Unit="MM">5.019685039370078</PinX>
+						<PinY Unit="MM">8.858267716535433</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{C6323125-BFF1-4D71-B8F2-733FA94502E4}" Name="Sheet.9" NameU="Sheet.9">
+					<Text>What’s A TNC</Text>
+					<XForm>
+						<PinX Unit="MM">8.661417322834645</PinX>
+						<PinY Unit="MM">8.346456692913385</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>What Is A TNC -From Packetradio.com</HLURL:Description>
+										<HLURL:Address>http://www.packetradio.com/tnc.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>http://www.packetradio.com/tnc.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="39" UniqueID="{95D7011C-8EB2-4266-9936-1875FD2D83E7}" Name="Sheet.39" NameU="Sheet.39">
+					<Text>An Idea For FAX
+By Packet</Text>
+					<XForm>
+						<PinX Unit="MM">1.043307086614174</PinX>
+						<PinY Unit="MM">3.917322834645669</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>EMRG Fax Over Packet Idea</HLURL:Description>
+										<HLURL:Address>fax_by_packet.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:AbsoluteURL>file://M:\INTERNET\Web Site Development Files\packet\fax_by_packet.htm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
