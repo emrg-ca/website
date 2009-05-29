@@ -1,0 +1,290 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+
+<head>
+    <title>EMRG: Packet Network Requirements</title>
+    <link rel="stylesheet" type="text/css" href="shared/style.css"/>
+    <script type="text/javascript" src="shared/corefunctions.js"></script>
+</head>
+
+<body>
+
+
+
+
+
+
+
+<h1>EMRG Packet Network Requirements</h1>
+
+<p>The Emergency Measures Radio Group is building a Packet Radio Network to support
+emergency communications between key sites such as the City of Ottawa Emergency Operations Centre,
+Ottawa Red Cross HQ and shelters. The network can be used by all amateurs when there is no emergency,
+however the network will be optimized for emergency use, not daily amateur use,
+which means there are no beacons, BBSs or Internet gateways, other than those
+directly operated by EMRG, so EMRG can turn them off in an emergency.
+</p>
+
+<p>Packet radio at 1200 baud can be slow and drops to half speed when going through a digipeater.
+The data rate gets further reduced when there are multiple stations on the air causing data collisions.
+When setting up the packet network, EMRG looked for a frequency that was not in use, so the network
+created by EMRG could be dedicated to emergency communications. By operating the network without
+any stations that are not involved in providing emergency communications, ensures that the only
+stations that can cause data collisions, are EMRG stations.
+</p>
+
+
+<table align="center" width="80%" summary="Highlighted Text">
+  <tr>
+    <td bgcolor="yellow">
+    While there are lots of things that can be done with Packet Radio,
+    one critical consideration in all decisions is that EMRG only build
+    what can and will be supported by it's membership. Building capabilities
+    that cannot be used by most members or which cannot be maintained by the group,
+    adds no long term value.
+    </td>
+  </tr>
+</table>
+
+<h2>Communications Types</h2>
+
+<p>The EMRG packet network will support Keyboard to Keyboard text messaging and
+File Transfers between packet stations with operators. There will be no automatic
+or unattended systems, other than a few beacons and nodes established as part of
+the network.
+</p>
+
+<h3>Keyboard to Keyboard Text Messaging</h3>
+
+<p>Stations can connect to each other and send text, so the message typed on
+one PC appears on the screen of the other PC. The message can be printed for
+distribution to the recipient, it can be saved as a text file, or it can be
+copied into another message or document.
+</p>
+
+<h3>File Transfers</h3>
+
+<p>With the current use of computers, much of the information people need to
+exchange is contained in documents or spreadsheets, which provide formatting
+for columns and headers or special text. Transferring this information by re-typing
+it as text is a duplication of effort and the message looses some of its clarity
+with the loss of formatting. Unfortunately these files cannot be transferred directly
+over the packet network. There is a solution, if the documents are only a page or 2,
+they can be added to a zip file, which is a binary file, which can be transferred
+over packet radio.
+</p>
+
+<h2>BBS</h2>
+
+<p>There will be NO Bulletin Board Systems (BBS) in the EMRG packet network.
+The BBS was common in packet radio networks, allowing users to exchange e-mail,
+gather information and download files. The EMRG network will not support the use
+of a BBS for three reasons;
+</p>
+
+<ol>
+
+	<li>The reason for building the EMRG packet network is to exchange information
+	directly between locations in an emergency.  If there is no one to take a message,
+	then the message should be kept or sent another way.</li>
+
+	<li>Operating a BBS requires a system operator (sysop) which is a time consuming
+	task and our goal is for EMRG volunteers to use their time to prepare for or provide
+	emergency communications</li>
+
+	<li>A BBS generates traffic on the network. Mails are sent or received, automatic
+	mail checks can be set up by end users. In an emergency, this "useless" traffic
+	consumes part of the network instead of emergency traffic.</li>
+
+</ol>
+
+<p>EMRG is operating a Telpac, Internet e-mail gateway as a test of the
+Winlink 2000 network.  www.winlink.org
+</p>
+
+<h2>Data Transmission Speed</h2>
+
+<h3>1200 Baud</h3>
+
+<p>The 1200 baud Terminal Node Controllers (TNC) is the most common TNC owned by Amateurs.
+For that reason the EMRG packet network must support 1200 baud access. Standard radios
+will support 1200 baud without modification and EMRG has several 1200 baud TNCs, so this
+will be the first capability implemented by EMRG.
+</p>
+
+<h3>9600 Baud</h3>
+
+<p>Multiple users exchanging text or file transfers, will cause congestion of a
+1200 Baud network. Implementing a 9600 baud backbone network, with direct access
+for heavy users such as the Red Cross or EOC, plus gateways to lower speed networks
+is a capability that could be useful. This would require a solution to support 9600 baud,
+which means suitable TNCs, plus radios modified to provide connections to support 9600 baud.
+This may be a longer term project, but is not currently planned for the network.
+</p>
+
+<h3>Higher Speeds</h3>
+
+<p>There are possibilities to support higher speed backbone links, such as 56k or
+higher using Wireless LAN technology, which can operate in the 2.4 GHz spectrum
+available to amateur radio and which is unlicensed anyway. While this would be great
+from a theoretical point of view, it adds complexity and cost that exceeds current
+capabilities and requirements.
+</p>
+
+<h2>Bands and Frequencies</h2>
+
+<h3>VHF - 2m</h3>
+
+<p>The most common FM radio owned by Amateurs, is 2m VHF, so the network must support
+VHF radios using 1200 baud as the core connectivity solution. This will be the starting
+point for the EMRG network design, a single wide area 2 metre VHF 1200 baud network
+on 145.030 MHz.
+</p>
+
+<p>The 2 metre amateur band can support additional packet networks and can support
+9600 baud communications. The advantage of an all VHF network is the ability to share
+antennas using suitable coupling devices. The down side is that without the proper
+coupling devices, multiple VHF stations can interfere with each other if in close
+proximity and may interfere with voice communications.
+</p>
+
+<h3>VHF - 1.35m</h3>
+
+<p>The 220 MHz amateur band is an ideal place for packet radio operation,
+based on the limited use of the frequencies today. The limited use of the band is
+due to or caused by a lack of available equipment. Some manufacturers do make
+Amateur equipment, which would work well for an end user station, but finding
+equipment for central nodes, that can support continuous operation is more difficult.
+</p>
+
+<p>EMRG will not rule out using the Amateur 220 MHz band for packet,
+but this will require all new equipment, which may be money better spent in other areas.
+</p>
+
+<h3>UHF - 70cm</h3>
+
+<p>The 440 MHz amateur band could be used to support a 9600 baud backbone network.
+EMRG does not have UHF equipment for this, but there is used commercial equipment
+available at reasonable cost.
+</p>
+
+<h3>HF</h3>
+
+<p>Interfacing the City wide packet network to the long range HF network is a
+possible future capability, but not a priority until the City wide network is
+complete and operational, which includes documentation, testing, training and
+exercises.
+</p>
+
+<h2>Nodes and Digipeaters</h2>
+
+<p>Nodes and Digipeaters are similar in terms of the function they provide,
+but differ in how they provide it. One of the network design objectives is to
+limit the number of hops to get from one station to another.
+</p>
+
+<h3>Station Types and Locations</h3>
+
+<p>There are three key types of network stations required for the
+EMRG Packet Radio Network;
+</p>
+
+<dl>
+
+	<dt>Central Node</dt>
+	<dd>Single site, supporting wide area coverage for 1200 packet on 145.030 MHz
+		Could support 9600bps operation in the future
+	</dd>
+
+	<dt>Core Stations</dt>
+	<dd>Four central sites which are key to supporting any emergency;
+		<ul>
+			<li>EMRG Communications Centre</li>
+			<li>City of Ottawa Emergency Operations Centre (EOC)</li>
+			<li>City of Ottawa People Services Control Centre</li>
+			<li>Ottawa Red Cross HQ</li>
+		</ul>
+	</dd>
+
+	<dt>Portable Stations</dt>
+	<dd>Seven portable packet radio kits with laptop computers, for deployment to shelters
+		or other locations in an emergency.
+	</dd>
+
+</dl>
+
+<h2>Equipment and Software</h2>
+
+<h3>Radios</h3>
+
+<p>The radios for the packet stations are Motorola Radius model M120, or GE Phoenix PSX-200.
+These are 2 channel VHF radios, allowing one channel for 1200 bps and one for 9600 bps.
+The Radius M120 and GE PSX-200 radios are software programmable so frequency changes can
+be made if required. Modification information has been obtained for the radios, for
+supporting 9600 bps operation.
+</p>
+
+<p>The duty cycle of the radios must be considered to ensure that under load, the radio
+will not fail. Lower transmit power, improved heat sink capacity and fans for better
+airflow will be incorporated to ensure continuous system operation. The central site
+will require a commercial continuous duty transceiver because all stations will be routed
+through this node, making it active almost continuously.
+</p>
+
+<h3>Antennas</h3>
+
+<p>The fixed sites have commercial VHF antennas or VHF antennas are being installed as
+part of site changes, such as the Ottawa Red Cross move to a new building.
+Portable systems will use a mix of home brew 1/4 wave and 5/8 J-Pole antennas as well
+as a few commercial 210C antennas. There will be a pool of antennas with the antenna
+selection made based on where the system will be deployed. The antenna for the central
+node is a Sinclair 210C-4, currently installed on the tower at Randall Dispatch.
+</p>
+
+<h3>Coax</h3>
+
+<p>Seven sections of RG8x coax, fifty feet long, with PL259 connectors on each end,
+are required for the portable kits. The coax provides the connection from the radio
+to the antenna. The coax and connectors will need to be purchased.
+</p>
+
+<h3>Computers</h3>
+
+<p>The fixed sites have a mix of computers, from Pentium 133 MHz up. The computer does
+not need to be state of the art to run the windows packet program.
+The portable systems are made up of laptop computers donated by a local company.
+The systems are in excellent shape and will provide plenty of performance.
+</p>
+
+<h3>Packet Software Applications</h3>
+
+<p>There are several software applications for packet radio. Many were written many
+years ago for DOS, but there are a few written for windows. The windows based packet
+software will be used because it allows cut and paste of text information from other
+applications, support for APRS and the ability to use other windows based applications.
+</p>
+
+<h3>Computer to Radio Interface</h3>
+
+<p>There are several options, including Sound Card Interfaces and TNCs. The decision on
+which to use, depending on functionality and available resources. Equipment must be
+purchased so money must be found to support the purchases.
+Sound card interfaces will not work with all computers or software and seem to
+provide less reliability with weaker signals. EMRG will not pursue the use of
+sound cards unless than can be proven effective for the EMRG applications.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

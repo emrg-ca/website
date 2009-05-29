@@ -1,0 +1,175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html>
+
+<head>
+    <title>EMRG: FAX by Packet  - An Idea</title>
+    <link rel="stylesheet" type="text/css" href="shared/style.css"/>
+    <script type="text/javascript" src="shared/corefunctions.js"></script>
+</head>
+
+<body>
+
+
+
+
+
+
+
+<h1>FAX by Packet  - An Idea</h1>
+
+<p style="font-weight: bold; text-align: center;">
+This page outlines an idea, that may be useful or may just have too many issues to work properly.
+This is a project that will be investigated once time permits.
+</p>
+
+<h2>Why Even Think About It?</h2>
+
+<p>One of the most common forms of information transfer is the FAX machine.
+Even for emergency communications, most organizations use FAX, either portable
+units in vehicles or as a way to transfer information between offices.
+The FAX is direct point to point, the information can be sent as is, no typing,
+there is instant feedback about whether your message is going through,
+it is relatively secure and the information output is in printed form.
+FAX or "sneaker net" may be the only way to get the information to
+another place. Try sending a hand sketched diagram over a voice network.
+</p>
+
+<p>In an emergency, there may be limited Amateur radio operator resources available,
+so finding solutions that can be operated by the people in the supported agency
+reduces the number of amateurs required. Amateur radio is becoming a communications
+system provider, rather than a provider and operator. In a shelter, one or two
+amateurs can maintain multiple communications links, if non amateurs operate the
+interface to the network. The difficulty is finding a user interface that is
+simple and that people are familiar with. The FAX machine may be that simple
+user interface for some situations.
+</p>
+
+<p>There are interfaces which use either a full duplex radio link with
+duplexers or full duplex using different bands for transmit and receive.
+Two systems are required, with one interface connecting to a phone line
+at site A and the other to a FAX machine at site Z. This allows the FAX
+to work exactly as it would on a normal phone line. There can be problems
+with the signal quality, setting up a full duplex system can be difficult
+and costly.
+</p>
+
+<p>I received an e-mail about this topic from Bob VE3INY, pointing out a
+simple way to send FAX over packet. The basic solution requires a FAX machine,
+two PCs and a simple interface cable. The secret, is to send the FAX to
+a PC co-located with the FAX machine. The PC receives the FAX and saves
+it as a file. The file can now be transferred using packet radio to another
+PC at the other end, where the FAX can be printed. No negotiating over
+the air, no full duplex radio links.
+</p>
+
+<p>There are several versions of the simple interface cable between the
+FAX and PC. Here is one that uses 12VDC (I have not tested anything related
+to this)
+<a href="external_url.htm?http://www.epanorama.net/documents/telecom/fax_to_modem.html">http://www.epanorama.net/documents/telecom/fax_to_modem.html</a>
+</p>
+
+<p>The system requires user intervention to transfer the file, but someone
+with some software skills may be able to automate the process and perhaps
+even extract some of the header information so the fax can be routed to
+the right destination at the other end (i.e. to the Red Cross or People
+Services at different locations)
+</p>
+
+
+<h2>The FAX Over Packet Idea</h2>
+
+<p>The basic solution requires a FAX machine, two PCs and a simulated phone network interface
+connecting the FAX to the PC. The FAX is sent from the FAX machine,
+to a PC co-located with the FAX machine.
+The PC receives the FAX and saves it as a file.
+The file can now be transferred using packet radio to another PC at the other end,
+where the FAX can then be printed. No negotiating over the air, no full duplex radio links.
+</p>
+
+<p>The system requires user intervention to transfer the file, but someone with some
+software skills may be able to automate the process and perhaps even extract some
+of the header information so the fax can be routed to the right destination at the
+other end (i.e. to the Red Cross or People Services at different locations)
+</p>
+
+<p>FAX over Packet is not a solution that would be available everywhere.
+This might be a single system solution, available to deploy at one site.
+Amateur radio emergency communications is a volunteer effort and emergencies
+do not happen every day, so there are limits on how much equipment would be
+available in an emergency.
+</p>
+
+
+<h2>FAX Connection Ideas</h2>
+
+<p>The FAX machine is expecting dial tone from the phone network,
+the FAX then sends the phone number it wants to connect to and
+the phone network makes the connection. The FAX receiving machine
+answers, then the two FAX machines negotiate the transmission
+parameters for the FAX to be sent.
+</p>
+
+<p>There are several versions of the simple interface cables
+that can be installed between the FAX and PC. Here is one
+that uses 12VDC (I have not tested anything related to this)
+www.epanorama.net/documents/telecom/fax_to_modem.html.
+There are also phone test devices which allow point to point
+telephone connections for intercom applications or for testing
+phone equipment. Viking Electronics is one manufacturer who
+makes such a device, model DLE-200B.
+
+[http://www.vikingelectronics.com/products/linesimulator/dle-200b(dt).html]
+</p>
+
+<h2>Issues To Investigate</h2>
+
+<p>The size of FAX files varies depending on the amount of dark area in the FAX.
+Simple 2 page faxes on white paper are around 100kB in size.
+Data compression such as zipping the file will reduce the size from 10% to 15%,
+but it is still a large file to transfer using packet.
+Standard 1200 baud packet is clearly not suitable and any use of a
+network may have negative impacts on other users.
+In the end, FAX over packet may have to be kept as a dedicated
+point to point solution. What are the file sizes and possible
+restrictions vs packet speeds?
+</p>
+
+<p>Both ends of the system must be using the same FAX software to receive
+and then print the FAX. Since this is an amateur radio solution,
+a freeware FAX software would be the best solution.
+What is a good FAX software solution?
+</p>
+
+
+<h2>An Alternate FAX Solution</h2>
+
+<p>There are interfaces which use either a full duplex radio link with duplexers
+or full duplex using different bands for transmit and receive.
+Two systems are required, with one interface connecting to a phone line
+at site A and the other to a FAX machine at site Z.
+This allows the FAX to work exactly as it would on a normal phone line.
+In this solution, radio provides a wireless connection from the FAX machine
+location to the nearest connection point to the telephone network.
+</p>
+
+<p>This solution provides normal FAX operation, but there can be problems
+with the signal quality, plus setting up a full duplex system can be
+difficult &amp; costly. The same equipment could be used to provide
+full duplex voice phone service as well, which in an emergency could
+be very useful.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

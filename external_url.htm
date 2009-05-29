@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html>
+
+<head>
+	<title>External Link</title>
+    <link rel="stylesheet" type="text/css" href="shared/style.css"/>
+    <script type="text/javascript" src="shared/corefunctions.js"></script>
+	<script type="text/javascript">
+		EXTERNAL_URL = location.href.substring((location.href.indexOf('?')) + 1);
+		// Keep everything after the question mark '?'.
+	</script>
+</head>
+
+<body>
+
+<h1>Notice</h1>
+
+<p style="font-weight: bold; text-align: center;">
+You are now leaving Emergency Measures Radio Group's website.
+<br/>This link has been provided solely for your convenience.
+<br/>The Emergency Measures Radio Group is not responsible for the information found through it.
+</p>
+
+<p style="font-weight: bold; text-align: center;">
+
+	<script type="text/javascript">
+		document.write('	<' + 'a href="' + EXTERNAL_URL + '">' + EXTERNAL_URL + '</a>');
+	</script>
+
+</p>
+
+</body>
+</html>
