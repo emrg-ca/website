@@ -1,240 +1,115 @@
-@media screen,print
-{
+@media print {
+  body {
+    color:       black;
+    background:  white;
+    margin:      0cm 0cm 0cm 0cm;
+  }
+
+  h1, h2, h3, th, td {
+    color:       black;
+    background:  white;
+  }
+}
+
+@media screen, print {
+  * {
+    font-family:  Helvetica, sans-serif;
+  }
+
+  body {
+    color:       black;
+    background:  white;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight:  bold;
+  }
+
   a:link {
   }
-  
+
   a:visited {
   }
 
   a:hover {
-  	background:      #00008B; /* DarkBlue */
-   	color:           white; 
+    background:  #00008B; /* DarkBlue */
+    color:       white;
   }
 
   a:active {
   }
 
-  body {
-	color:		black;
- 	background:	white;
-	font-family:	Arial, Helvetica, sans-serif;
-	font-style:	normal;
-	font-weight:	normal;
-	text-decoration:	none;
-  }
-  
-  li
-  {
-        margin-top:	10.0px;
+  h1 {
+    color:           Maroon;
+    background:      white;
+    text-align:      center;
   }
 
-  p.margin 
-  {
-        margin:		2cm 4cm 3cm 4cm;
+  h2.leftmenu {
+    text-align:      left;
   }
 
-  p.center 
-  {
-  	text-align:	center
+  h2.rightmenu {
+    color:           Black;
+    text-align:      left;
   }
 
-  br.center 
-  {
-  	text-align:	center
-  }
-  
-  h1
-  {
-  	font-family:	Arial, Helvetica, sans-serif;
-  	font-style:	normal;
-  	font-weight:	bold;
-  	color:		Maroon;
- 	background:	white;
-	text-align: 	center;
-  	text-transform:	uppercase;
-  	text-decoration:none;
-  	
-  }
-  h2.leftmenu
-  {
-        margin-top:	20.0px;
-  	font-family:	Arial, Helvetica, sans-serif;
-  	font-style:	normal;
-  	font-weight:	bold;
-  	color:		Black;
-	text-align: 	left;
-  	text-transform:	uppercase;
-  	text-decoration:none;
-  	
-  }
-  h2.rightmenu
-  {
-        margin-top:	20.0px;
-  	font-family:	Arial, Helvetica, sans-serif;
-  	font-style:	normal;
-  	font-weight:	bold;
-  	color:		Black;
-	text-align: 	left;
-  	text-transform:	uppercase;
-  	text-decoration:none;
-  	
+  h2 {
+    color:       Maroon;
+    background:  white;
   }
 
-  h2
-  {
-  	color:		Maroon;
- 	background:	white;
-  	font-family:	Arial, Helvetica, sans-serif;
-  	font-style:	normal;
-  	font-weight:	normal;
-  	text-decoration:none;
+  h3 {
+    color:        Maroon;
+    background:   white;
+    font-style:   italic;
   }
 
-  h3
-  {
-  	color:		Maroon;
- 	background:	white;
-  	font-family:	Arial, Helvetica, sans-serif;
-  	font-style:	italic;
-  	font-weight:	bold;
-  	text-decoration:none;
+  th {
+    color:        #20B2AA; /* LightSeaGreen */
+    background:   white;
+    font-weight:  bold;
   }
 
-  th
-  {
-  	color:		#20B2AA; /* LightSeaGreen */
- 	background:	white;
-  	font-family:	Arial, Helvetica, sans-serif;
-  	font-style:	normal;
-  	font-weight:	bold;
+  dt {
+    font-weight:  bold;
   }
 
-  td
-  {
-  	color:		black;
- 	background:	white;
-  	font-family:	Arial, Helvetica, sans-serif;
-  	font-style:	normal;
-  	font-weight:	normal;
+  .leftmenu { /* Left Side Menu Links */
+    background:      rgb(234, 228, 208); /* Sandy */
+    color:           black;
+    font-size:       8pt;
+    vertical-align:  top;
   }
 
-  DT
-  {
-        margin-top:	20.0px;
-  	font-weight:	bold;
-  	text-decoration:none;
+  #menubar {
+    color:             #ffffff;
+    background-color:  #006b3f;
+    font-size:         10pt;
+    font-weight:       bold;
+    text-align:        center;
+    padding:           3px;
+    clear:             both;
   }
 
-  /* -------------------------------------------------------- */
-  /* Top Menu Bar
-  /* -------------------------------------------------------- */
-
-  .common /* Common liks - first line of menu bar             */
-  {
-	background:	black;
-  	color:		white;
-  	font-family:	Arial, Helvetica, sans-serif;
-  	font-style:	normal;
-  	font-size:	8pt;
-	font-weight:	bold;
-  	text-decoration:none;
+  #header {
+    margin-left:   auto;
+    margin-right:  auto;
+    width:         100%;
   }
 
-  .inst /* Institutional Links second & thrid lines of menu bar */
-  {
-	background:	#006600;
-	color:		white;
-	font-family:	Arial, Helvetica, sans-serif;
-	font-style:	normal;
-	font-size:	8pt;
-	font-weight:	bold;
-	text-decoration:none;
-  }
-
-  /* -------------------------------------------------------- */
-  /* Side Menu Bar
-  /* -------------------------------------------------------- */
-
-  .leftmenu /* Left Side Menu Links                           */
-  {
-	background:	rgb(234, 228, 208); /* Sandy */
-	color:		black;
-	font-family:	Arial, Helvetica, sans-serif;
-	font-style:	normal;
-	font-size:	8pt;
-	font-weight:	normal;
-	text-decoration:none;
-	vertical-align:	top;
-  }
-
-  .rightmenu /* Right Side Menu Links                         */
-  {
-	background:	#ADD8E6; /* LightBlue */
-	color:		black;
-	font-family:	Arial, Helvetica, sans-serif;
-	font-style:	normal;
-	font-size:	8pt;
-	font-weight:	normal;
-	text-decoration:none;
-	vertical-align:	top;
-  }
-
-  #linkspace {
-	color:		#ffffff;
-	background-color:#006b3f;
-  	font-family:	Arial, Helvetica, sans-serif;
-	font-size:	10pt;
-	font-weight:	bold;
-	text-align:	center;
-	padding:	3px;
-	clear:		both;
+  #centerblock {
+    text-align:    center;
+    width:         90%;
   }
 
   a.menubar:link {
-	color:		#ffffff;
-	background-color:#006b3f;
-	text-decoration:none;
+    color:             #ffffff;
+    background-color:  #006b3f;
   }
-  
+
   a.menubar:visited {
-	color:		#ffffff;
-	background-color:#006b3f;
-	text-decoration:none;
+    color:             #ffffff;
+    background-color:  #006b3f;
   }
-
-
-  /* -------------------------------------------------------- */
-  /* Main Text Area                                           */
-  /* -------------------------------------------------------- */
-
-  .main /* Main Text Area                                     */
-  {
-	background:	white;
-	color:		black;
-	font-family:	Arial, Helvetica, sans-serif;
-	font-style:	normal;
-	font-size:	10pt;
-	font-weight:	normal;
-	text-decoration:none;
-	vertical-align:	top;
-  }
-
-}
-
-@media print
-{
-
-  body
-  {
-	color:		black;
- 	background:	white;
-        margin: 	0cm 0cm 0cm 0cm;
-  }
-
-  h1, h2, h3, th, td
-  {
-	color:		black;
- 	background:	white;
-  }
-
 }
