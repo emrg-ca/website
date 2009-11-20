@@ -103,13 +103,9 @@
     width:         90%;
   }
 
-  a.menubar:link {
+  a.menubar:link, a.menubar:visited {
     color:             #ffffff;
     background-color:  #006b3f;
-  }
-
-  a.menubar:visited {
-    color:             #ffffff;
-    background-color:  #006b3f;
+    text-decoration:   none;
   }
 }
