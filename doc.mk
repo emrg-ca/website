@@ -21,5 +21,6 @@ all :
 	@unoconv -f pot $^
 
 clean :
+	@rm __db.
 
 .PHONY : all clean
