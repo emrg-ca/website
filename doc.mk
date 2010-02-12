@@ -1,5 +1,11 @@
 all :
 
+%.odt : %.doc
+	@unoconv -f odt $^
+
+%.odp : %.ppt
+	@unoconv -f odp $^
+
 %.pdf : %.odt
 	@unoconv -f pdf $^
 
@@ -22,5 +28,7 @@ all :
 
 clean :
 	@rm __db.
+
+.PRECIOUS : %.odt %.odp
 
 .PHONY : all clean
