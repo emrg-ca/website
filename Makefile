@@ -1,4 +1,5 @@
 TOP = .
+SHELL=/bin/bash
 
 HOST = emrg.ca
 USER = emrghosting
