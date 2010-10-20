@@ -1,5 +1,5 @@
-TOP = .
-SHELL=/bin/bash
+SHELL = /bin/bash
+TOP   = .
 
 HOST = emrg.ca
 USER = emrghosting
@@ -15,24 +15,29 @@ DATE ?= $(shell date +%Y%m%d)
 GIT  ?= $(BASE)-git-$(DATE).tar.bz2
 SITE ?= $(BASE)-site-$(DATE).tar.bz2
 
+.PHONY : all
 all :
 
+OPTS ?= --ignore-time
+
+.PHONY : pull
 pull :
 	@lftp -c 'open $(HOST) ; user $(USER) $(PASS) ; cd $(DIR) ; lcd $(DIR) ;\
-mirror -ev --ignore-time -x \.git$$'
+mirror -ev $(OPTS) -x \.git$$'
 
+.PHONY : push
 push :
 	@lftp -c 'open $(HOST) ; user $(USER) $(PASS) ; cd $(DIR) ; lcd $(DIR) ;\
-mirror -Rev --ignore-time -x \.git$$'
+mirror -Rev $(OPTS) -x \.git$$'
 
+.PHONY : git
 git :
 	@rm -f $(GIT)
 	@pushd .. ; tar cvfj $(GIT) $(GITDIR) ; popd
 	@pushd .. ; mv $(GIT) $(ROOT) ; popd
 
+.PHONY : site
 site :
 	@rm -f $(SITE)
 	@pushd .. ; tar cvfj $(SITE) $(DOCDIR) ; popd
 	@pushd .. ; mv $(SITE) $(ROOT) ; popd
-
-.PHONY : all pull push git site
