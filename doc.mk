@@ -1,10 +1,13 @@
+.PHONY : all
 all :
 
 %.odt : %.doc
 	@unoconv -f odt $^
+.PRECIOUS : %.odt
 
 %.odp : %.ppt
 	@unoconv -f odp $^
+.PRECIOUS : %.odp
 
 %.pdf : %.odt
 	@unoconv -f pdf $^
@@ -26,9 +29,6 @@ all :
 %.pot : %.otp
 	@unoconv -f pot $^
 
+.PHONY : clean
 clean :
 	@rm __db.
-
-.PRECIOUS : %.odt %.odp
-
-.PHONY : all clean
