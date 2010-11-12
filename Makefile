@@ -5,10 +5,10 @@ HOST = emrg.ca
 USER = emrghosting
 PASS = $(shell cat passwd)
 
-ROOT   ?= emrg.ca
-DIR    ?= httpdocs
-GITDIR ?= $(ROOT)/.git/
-DOCDIR ?= $(ROOT)/$(DIR)/
+ROOT   = emrg.ca
+DIR    = httpdocs
+GITDIR = $(ROOT)/.git/
+DOCDIR = $(ROOT)/$(DIR)/
 
 BASE ?= emrg
 DATE ?= $(shell date +%Y%m%d)
