@@ -1,0 +1,9 @@
+#!/bin/bash
+# Break out each of the individual forms as a separate pdf document
+full_doc="SC-ARES-DMAP_Manual_Nov-2010_FINAL.pdf"
+pdftk $full_doc cat 15 17 output SC-ARES-DMAP_form01.pdf
+pdftk $full_doc cat 19 20 output SC-ARES-DMAP_form02.pdf
+pdftk $full_doc cat 21 22 output SC-ARES-DMAP_form03.pdf
+pdftk $full_doc cat 23 25 output SC-ARES-DMAP_form04.pdf
+pdftk $full_doc cat 26 27 output SC-ARES-DMAP_form05.pdf
+pdftk $full_doc cat 28    output SC-ARES-DMAP_form06.pdf
