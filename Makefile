@@ -1,5 +1,5 @@
-SHELL = /bin/bash
-TOP   = .
+SHELL := /bin/bash
+TOP   := .
 
 HOST = emrg.ca
 USER = emrghosting
