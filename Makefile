@@ -2,11 +2,11 @@ SHELL := /bin/bash
 TOP   := .
 
 HOST = emrg.ca
-USER = emrghosting
+USER = emrg.ca
 PASS = $(shell cat passwd)
 
 ROOT   = emrg.ca
-DIR    = httpdocs
+DIR    = public
 GITDIR = $(ROOT)/.git/
 DOCDIR = $(ROOT)/$(DIR)/
 
