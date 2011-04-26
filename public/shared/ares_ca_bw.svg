@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="460.96631"
-   height="460.96631"
+   width="599.99902"
+   height="599.99902"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.46"
@@ -86,9 +86,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.627017"
-     inkscape:cx="230.48317"
-     inkscape:cy="230.48317"
+     inkscape:zoom="1.250002"
+     inkscape:cx="299.99951"
+     inkscape:cy="299.99951"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -113,11 +113,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-283.1567,-140.73576)">
+     transform="translate(-398.53014,-261.2097)">
     <g
-       id="g3362">
+       id="g3362"
+       transform="matrix(1.3096729,0,0,1.3096729,25.829447,75.033855)">
       <path
-         style="fill:#ffffff;stroke:#db0029;stroke-width:5.05159998"
+         style="fill:#ffffff;stroke:#db0029;stroke-width:3.85714674"
          i:knockout="Off"
          id="path3018"
          d="" />
@@ -125,65 +126,65 @@
          d=""
          id="path3030"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996;stroke-linecap:square" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.8154707;stroke-linecap:square" />
       <path
          d=""
          id="path3042"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.8154707" />
       <path
          d=""
          id="path3044"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.8154707" />
       <path
          d=""
          id="path3048"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.8154707" />
       <path
          d=""
          id="path3052"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.8154707" />
       <path
          d=""
          id="path3080"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.8154707" />
       <path
          d=""
          id="path3082"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.8154707" />
       <path
          d=""
          id="path3084"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.8154707" />
       <path
          d=""
          id="path3088"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996;stroke-linejoin:round" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.8154707;stroke-linejoin:round" />
       <path
          d=""
          id="path3090"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996;stroke-linejoin:round" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.8154707;stroke-linejoin:round" />
       <path
-         style="fill:#0c2e82;stroke:#000000;stroke-width:0.421"
+         style="fill:#0c2e82;stroke:#000000;stroke-width:0.32145435"
          i:knockout="Off"
          id="path3136"
          d="" />
       <path
-         style="fill:#0c2e82;stroke:#000000;stroke-width:0.421"
+         style="fill:#0c2e82;stroke:#000000;stroke-width:0.32145435"
          i:knockout="Off"
          id="path3174"
          d="" />
       <circle
          transform="matrix(3.2917349,0,0,3.2917349,280.84177,138.42083)"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.64549374999999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.78351474;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:ry="68.195999"
          sodipodi:rx="68.195999"
          sodipodi:cy="70.722"
@@ -344,7 +345,7 @@
          sodipodi:cy="78.292999"
          sodipodi:rx="2.132"
          sodipodi:ry="2.132"
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.30379117000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2319596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          style="fill:#000000;fill-opacity:1"
          i:knockout="Off"

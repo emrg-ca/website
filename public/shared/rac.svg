@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="252.13272"
-   height="291.59369"
+   width="518.7959"
+   height="599.992"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.46"
@@ -190,9 +190,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5617838"
-     inkscape:cx="129.65189"
-     inkscape:cy="145.79684"
+     inkscape:zoom="1.2500167"
+     inkscape:cx="259.39795"
+     inkscape:cy="299.996"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -218,11 +218,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-394.61166,-191.35106)">
+     transform="translate(-501.53165,-294.79273)">
     <g
-       id="g3380">
+       id="g3380"
+       transform="matrix(2.0576303,0,0,2.0576303,-310.43326,-98.937004)">
       <path
-         style="fill:#ffffff;stroke:#db0029;stroke-width:5.05159998"
+         style="fill:#ffffff;stroke:#db0029;stroke-width:2.45505738"
          i:knockout="Off"
          id="path3018"
          d="" />
@@ -230,52 +231,52 @@
          d=""
          id="path3030"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996;stroke-linecap:square" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362;stroke-linecap:square" />
       <path
          d=""
          id="path3042"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path3044"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path3048"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path3052"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path3080"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path3082"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path3084"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path3088"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996;stroke-linejoin:round" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362;stroke-linejoin:round" />
       <path
          d=""
          id="path3090"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996;stroke-linejoin:round" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362;stroke-linejoin:round" />
       <g
          transform="translate(-342.21131,81.741875)"
          id="g3104">
@@ -285,12 +286,12 @@
            i:knockout="Off" />
       </g>
       <path
-         style="fill:#0c2e82;stroke:#000000;stroke-width:0.421"
+         style="fill:#0c2e82;stroke:#000000;stroke-width:0.2046043"
          i:knockout="Off"
          id="path3136"
          d="" />
       <path
-         style="fill:#0c2e82;stroke:#000000;stroke-width:0.421"
+         style="fill:#0c2e82;stroke:#000000;stroke-width:0.2046043"
          i:knockout="Off"
          id="path3174"
          d="" />
@@ -314,7 +315,7 @@
          d="M 646.35454,349.62221 C 646.2637,351.88643 646.48994,354.1886 645.78915,356.37982 C 645.23271,358.74019 644.9251,361.19244 643.62102,363.30028 C 641.90019,366.86726 638.83887,369.82888 635.2385,371.46125 C 631.27869,372.57661 627.04561,371.36624 623.64033,369.24131 C 620.09285,367.04578 616.54889,364.23849 614.82921,360.32928 C 613.10392,355.70326 611.49188,350.96425 611.14015,346.00502 C 610.33649,340.06574 610.08146,333.87518 611.90915,328.09257 C 612.3393,325.37551 613.56194,322.95576 614.87329,320.58 C 616.57045,317.45632 618.16242,313.99521 621.32219,312.07658 C 622.97053,310.49832 625.0952,309.68574 627.17378,308.88007 C 629.67079,308.10876 632.17228,308.24648 634.70807,308.74308 C 637.52774,308.03313 639.17786,312.57241 641.61289,311.14947 C 642.70264,309.93175 643.56673,307.46535 645.52148,307.89319 C 646.83228,307.52378 646.63548,308.61706 646.6027,309.5512 C 646.64992,316.27374 646.69715,322.99627 646.74438,329.7188 C 644.53894,330.00095 643.93657,329.28785 644.0943,327.18709 C 643.77992,324.67684 642.67513,322.29073 641.51423,320.05213 C 640.6043,317.45142 638.61441,315.57945 636.53787,313.91463 C 634.65789,312.27801 631.79627,313.86755 630.53277,315.63467 C 627.88033,318.75378 627.58967,323.07943 627.74443,326.99833 C 628.04318,335.02976 627.50578,343.06226 627.7025,351.09529 C 627.6737,355.53315 627.72025,360.24766 630.25138,364.09682 C 631.05041,366.53966 633.85792,367.19247 636.07783,366.42168 C 638.294,365.29124 640.49578,363.72941 641.45146,361.33355 C 642.74364,358.71834 643.38922,355.7941 643.93341,352.93673 C 644.35532,351.26431 643.54547,348.95537 645.94329,349.62221 C 646.08038,349.62221 646.21746,349.62221 646.35454,349.62221 z"
          id="path3418" />
       <path
-         style="fill:#ffffff;stroke:#db0029;stroke-width:5.05159998"
+         style="fill:#ffffff;stroke:#db0029;stroke-width:2.45505738"
          i:knockout="Off"
          id="path2517"
          d="" />
@@ -322,64 +323,64 @@
          d=""
          id="path2519"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996;stroke-linecap:square" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362;stroke-linecap:square" />
       <path
          d=""
          id="path2521"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2523"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2525"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2527"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2529"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2531"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2533"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2535"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996;stroke-linejoin:round" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362;stroke-linejoin:round" />
       <path
          d=""
          id="path2537"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996;stroke-linejoin:round" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362;stroke-linejoin:round" />
       <path
-         style="fill:#0c2e82;stroke:#000000;stroke-width:0.421"
+         style="fill:#0c2e82;stroke:#000000;stroke-width:0.2046043"
          i:knockout="Off"
          id="path2539"
          d="" />
       <path
-         style="fill:#0c2e82;stroke:#000000;stroke-width:0.421"
+         style="fill:#0c2e82;stroke:#000000;stroke-width:0.2046043"
          i:knockout="Off"
          id="path2541"
          d="" />
       <path
-         style="fill:#ffffff;stroke:#db0029;stroke-width:5.05159998"
+         style="fill:#ffffff;stroke:#db0029;stroke-width:2.45505738"
          i:knockout="Off"
          id="path2569"
          d="" />
@@ -387,59 +388,59 @@
          d=""
          id="path2571"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996;stroke-linecap:square" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362;stroke-linecap:square" />
       <path
          d=""
          id="path2573"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2575"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2577"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2579"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2581"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2583"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2585"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362" />
       <path
          d=""
          id="path2587"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996;stroke-linejoin:round" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362;stroke-linejoin:round" />
       <path
          d=""
          id="path2589"
          i:knockout="Off"
-         style="fill:none;stroke:#ffffff;stroke-width:1.06799996;stroke-linejoin:round" />
+         style="fill:none;stroke:#ffffff;stroke-width:0.51904362;stroke-linejoin:round" />
       <path
-         style="fill:#0c2e82;stroke:#000000;stroke-width:0.421"
+         style="fill:#0c2e82;stroke:#000000;stroke-width:0.2046043"
          i:knockout="Off"
          id="path2591"
          d="" />
       <path
-         style="fill:#0c2e82;stroke:#000000;stroke-width:0.421"
+         style="fill:#0c2e82;stroke:#000000;stroke-width:0.2046043"
          i:knockout="Off"
          id="path2593"
          d="" />
