@@ -90,7 +90,7 @@ function header_fr() {
   document.write('    <td>');
   document.write('      <a href="external_url.htm?http://www.rac.ca">');
   document.write('      <img border="0" width="100" height="100"');
-  document.write('      src="shared/ares_ca.png" alt="Radio Amateurs du Canada"></a>');
+  document.write('      src="shared/ares_sura.png" alt="Radio Amateurs du Canada"></a>');
   document.write('    </td>');
   document.write('  </tr>');
   document.write('</table>');

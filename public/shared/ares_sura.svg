@@ -17,7 +17,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.47 r22583"
    version="1.0"
-   sodipodi:docname="ares_ca.svg"
+   sodipodi:docname="ares_sura.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/tyler/f1/radio/logos/ares/ares_ca.png"
    inkscape:export-xdpi="96"
@@ -153,6 +153,93 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3819-6" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2967-2" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2936-2" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2909-4" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2882-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3564-6" />
+    <foreignObject
+       id="foreignObject3009-4"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2943-1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2873-3" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 320 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="320 : 320 : 1"
+       inkscape:persp3d-origin="160 : 213.33333 : 1"
+       id="perspective2795-4" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 70.721497 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="141.44299 : 70.721497 : 1"
+       inkscape:persp3d-origin="70.721497 : 47.147664 : 1"
+       id="perspective2633-7" />
+    <inkscape:perspective
+       id="perspective10-1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -198,18 +285,18 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="French"
+     inkscape:label="English"
      style="display:none"
      transform="translate(-105.5893,-104.08536)">
     <g
-       id="g2885">
+       id="g3172">
       <path
          id="path3037-3-4"
-         d="M 135.87651,228.30672 C 233.11874,79.496734 432.58347,37.692844 581.3935,134.93509 730.20348,232.17733 772.00738,431.64202 674.76508,580.45197 577.52291,729.26203 378.05817,771.06595 229.2482,673.82374 80.43818,576.58148 38.63427,377.11672 135.87651,228.30672 z"
+         d="M 175.55101,178.97385 C 300.03903,52.075482 503.82796,50.121549 630.72637,174.6096 757.62473,299.09762 759.57868,502.88651 635.09059,629.78483 510.60262,756.68328 306.81368,758.63725 179.91533,634.14925 53.016927,509.66119 51.062979,305.87223 175.55101,178.97385 z"
          style="fill:none;stroke:#fd1627;stroke-width:1.21367157;stroke-miterlimit:4;stroke-opacity:1" />
       <path
          id="path3037-3"
-         d="M 169.58254,684.83184 C 323.91254,815.90358 555.27635,797.04903 686.34809,642.719 817.41978,488.38906 798.56524,257.02524 644.23516,125.95361 489.90524,-5.118178 258.54149,13.736344 127.46978,168.06633 -3.60196,322.39635 15.25255,553.76012 169.58254,684.83184 z"
+         d="M 114.60996,626.68744 C 236.8277,788.1197 466.77144,819.90936 628.2037,697.69159 789.6359,575.4739 821.42557,345.53016 699.20773,184.09798 576.99008,22.665689 347.04641,-9.123973 185.61418,113.09375 24.18191,235.31151 -7.6077687,465.2552 114.60996,626.68744 z"
          style="fill:none;stroke:#fd1627;stroke-width:1.38239872;stroke-miterlimit:4;stroke-opacity:1" />
       <path
          id="circle3016-5"
@@ -222,7 +309,7 @@
          xml:space="preserve"
          transform="translate(0.27751646,-1.2285062)"><textPath
            id="textPath2991"
-           xlink:href="#path3037-3-4">SERVICE D'URGENCE</textPath></text>
+           xlink:href="#path3037-3-4">AMATEUR RADIO</textPath></text>
       <text
          sodipodi:linespacing="125%"
          id="text2886-8"
@@ -230,18 +317,17 @@
          xml:space="preserve"
          transform="translate(-0.85583378,-3.4952067)"><textPath
            id="textPath2983"
-           xlink:href="#path3037-3"><tspan
-   id="tspan2915">RADIO AMATEUR</tspan></textPath></text>
+           xlink:href="#path3037-3">EMERGENCY SERVICE</textPath></text>
       <text
          transform="matrix(0.68135514,-0.73195298,0.73195298,0.68135514,0,0)"
          sodipodi:linespacing="125%"
          id="text2955-4-1"
-         y="915.52686"
-         x="-48.07336"
+         y="910.83655"
+         x="17.23822"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fddf27;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
          xml:space="preserve"><tspan
-           y="915.52686"
-           x="-48.07336"
+           y="910.83655"
+           x="17.23822"
            id="tspan2957-7-7"
            sodipodi:role="line">®</tspan></text>
     </g>
@@ -253,13 +339,11 @@
      transform="translate(-231.11366,-199.38194)"
      style="display:inline">
     <g
-       id="g2938">
+       id="g2915">
       <path
-         id="path3037"
-         d="M 277.7419,579.41076 C 321.10166,719.3146 469.66617,797.57905 609.57001,754.21929 749.47385,710.85953 827.73827,562.29502 784.37851,422.3912 741.01875,282.48735 592.45429,204.22292 452.55045,247.58268 312.6466,290.94245 234.38215,439.50692 277.7419,579.41076 z"
-         style="fill:none;stroke:#fd1627;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1" />
-      <path
-         transform="matrix(-2.7968594,-1.2631021,1.2631021,-2.7968594,1303.8349,1599.1589)"
+         inkscape:transform-center-y="8.8284975"
+         inkscape:transform-center-x="-6.8038282"
+         transform="matrix(-3.0389977,-0.42701542,0.42701542,-3.0389977,1581.6535,1341.0046)"
          d="m 450.19121,223.02762 a 73.218826,73.218826 0 1 1 -146.43765,0 73.218826,73.218826 0 1 1 146.43765,0 z"
          sodipodi:ry="73.218826"
          sodipodi:rx="73.218826"
@@ -268,9 +352,13 @@
          id="path3037-6"
          style="fill:none;stroke:#fd1627;stroke-width:0.27608338;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          sodipodi:type="arc" />
+      <path
+         id="path3037"
+         d="M 311.21373,649.22992 C 393.13354,770.64778 557.97132,802.66727 679.38916,720.74746 800.80704,638.82766 832.82649,473.98991 750.90668,352.57204 668.98688,231.15419 504.14914,199.1347 382.73129,281.05452 261.31343,362.97433 229.29392,527.81207 311.21373,649.22992 z"
+         style="fill:none;stroke:#fd1627;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1" />
       <circle
          transform="matrix(4.3109275,0,0,4.3109275,226.22425,194.49253)"
-         style="fill:#000000;fill-opacity:1;stroke:#ffdf27;stroke-width:2.7836237;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:#000000;fill-opacity:1;stroke:#ffdf27;stroke-width:2.78362346;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          sodipodi:ry="68.195999"
          sodipodi:rx="68.195999"
          sodipodi:cy="70.722"
@@ -381,32 +469,35 @@
          d="m 706.50323,513.72932 c -0.11892,2.96527 0.17732,5.98024 -0.74045,8.84991 -0.72873,3.09119 -1.13158,6.30271 -2.83943,9.06319 -2.25364,4.67139 -6.26281,8.54999 -10.97793,10.68778 -5.18585,1.4607 -10.72959,-0.12441 -15.18921,-2.90728 -4.64586,-2.87532 -9.28711,-6.5518 -11.53924,-11.67139 -2.25948,-6.05834 -4.37064,-12.26465 -4.83127,-18.75936 -1.05249,-7.77821 -1.38649,-15.8855 1.0071,-23.45853 0.56333,-3.55833 2.16453,-6.72728 3.8819,-9.83863 2.22264,-4.09084 4.30752,-8.62358 8.44562,-11.13626 2.1587,-2.06693 4.94121,-3.1311 7.66337,-4.18622 3.27014,-1.01013 6.54614,-0.82976 9.86707,-0.17941 3.6927,-0.92976 5.85373,5.01498 9.0427,3.15146 1.42716,-1.59475 2.55879,-4.8248 5.11877,-4.26449 1.71666,-0.48379 1.45892,0.948 1.41599,2.17137 0.0618,8.80398 0.12376,17.60795 0.18555,26.41192 -2.88829,0.36951 -3.67717,-0.56438 -3.4706,-3.31558 -0.41172,-3.28748 -1.85858,-6.41238 -3.37892,-9.3441 -1.19166,-3.40595 -3.79766,-5.85752 -6.51715,-8.0378 -2.46206,-2.14336 -6.2097,-0.0617 -7.86441,2.2526 -3.47369,4.08485 -3.85434,9.74982 -3.65167,14.8821 0.39125,10.51813 -0.31254,21.03767 -0.0549,31.5579 -0.0377,5.81191 0.0233,11.98614 3.33807,17.02708 1.04643,3.1992 4.7232,4.05413 7.63044,3.04469 2.90235,-1.48045 5.78585,-3.52586 7.03743,-6.66353 1.69226,-3.42493 2.53773,-7.25458 3.25041,-10.99665 0.55255,-2.19024 -0.50805,-5.21408 2.63219,-4.34077 0.17953,0 0.35905,0 0.53858,0 z"
          style="fill:#fddf27;fill-opacity:1;fill-rule:evenodd;stroke:none" />
       <text
+         transform="translate(0.511802,-0.69889)"
+         inkscape:transform-center-y="-140.21572"
+         inkscape:transform-center-x="-7.3430738"
          sodipodi:linespacing="125%"
-         id="text2870"
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fddf27;fill-opacity:1;stroke:#fddf27;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         id="text2870-1"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#fddf27;fill-opacity:1;stroke:#fddf27;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          xml:space="preserve"><textPath
-           id="textPath3884"
-           xlink:href="#path3037-6"><tspan
-   id="tspan2872">AMATEUR RADIO</tspan></textPath></text>
+           id="textPath3916"
+           xlink:href="#path3037-6">SERVICE D'URGENCE</textPath></text>
       <text
+         transform="translate(0.511802,-0.69889)"
          sodipodi:linespacing="125%"
-         id="text2870-1-8"
+         id="text2870-1-8-5"
          style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fddf27;fill-opacity:1;stroke:#fddf27;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          xml:space="preserve"><textPath
-           id="textPath3890"
+           id="textPath3925"
            xlink:href="#path3037"><tspan
-   id="tspan2926">EMERGENCY SERVICE</tspan></textPath></text>
+   id="tspan2953">RADIO AMATEUR</tspan></textPath></text>
       <text
-         transform="matrix(0.34153139,-0.93987037,0.93987037,0.34153139,0,0)"
+         transform="matrix(0.52843719,-0.8489724,0.8489724,0.52843719,0,0)"
          sodipodi:linespacing="125%"
-         id="text2955-4"
-         y="914.79791"
-         x="-274.90222"
+         id="text2955"
+         y="960.81879"
+         x="-146.63435"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fddf27;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
          xml:space="preserve"><tspan
-           y="914.79791"
-           x="-274.90222"
-           id="tspan2957-7"
+           y="960.81879"
+           x="-146.63435"
+           id="tspan2957"
            sodipodi:role="line">®</tspan></text>
     </g>
   </g>
