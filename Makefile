@@ -1,5 +1,5 @@
-SHELL := /bin/bash
-TOP   := .
+SHELL = /bin/bash
+TOP   = .
 
 HOST = emrg.ca
 USER = emrg.ca
@@ -18,6 +18,7 @@ SITE ?= $(BASE)-site-$(DATE).tar.bz2
 .PHONY : all
 all :
 
+# Set OPTS='' to force everything to get reuploaded.
 OPTS ?= --ignore-time
 
 .PHONY : pull
