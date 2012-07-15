@@ -4,33 +4,33 @@ SHELL := /bin/bash
 all :
 
 %.odt : %.doc
-	@unoconv -f odt $^
+	@libreoffice --convert-to odt $^
 .PRECIOUS : %.odt
 
 %.odp : %.ppt
-	@unoconv -f odp $^
+	@libreoffice --convert-to odp $^
 .PRECIOUS : %.odp
 
 %.pdf : %.odt
-	@unoconv -f pdf $^
+	@libreoffice --convert-to pdf $^
 
 %.pdf : %.odp
-	@unoconv -f pdf $^
+	@libreoffice --convert-to pdf $^
 
 %.doc : %.odt
-	@unoconv -f doc $^
+	@libreoffice --convert-to doc $^
 
 %.ppt : %.odp
-	@unoconv -f ppt $^
+	@libreoffice --convert-to ppt $^
 
 # Word Template from OpenDocument Text Template
 #%.dot : %.otd
-#	@unoconv -f dot $^
+#	@libreoffice --convert-to dot $^
 
 # Powerpoint Template from OpenDocument Presentation Template
-%.pot : %.otp
-	@unoconv -f pot $^
+#%.pot : %.otp
+#	@libreoffice --convert-to pot $^
 
 .PHONY : clean
 clean :
-	@rm __db.
+	@rm -f __db.
