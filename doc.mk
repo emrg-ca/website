@@ -18,10 +18,10 @@ all :
 	@libreoffice --headless --convert-to pdf $^
 
 #%.doc : %.odt
-	#@libreoffice --headless --convert-to doc $^
+#	@libreoffice --headless --convert-to doc $^
 
 #%.ppt : %.odp
-	#@libreoffice --headless --convert-to ppt $^
+#	@libreoffice --headless --convert-to ppt $^
 
 # Word Template from OpenDocument Text Template
 #%.dot : %.otd
