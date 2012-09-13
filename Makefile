@@ -23,12 +23,14 @@ OPTS ?= --ignore-time
 
 .PHONY : pull
 pull :
-	@lftp -c 'open $(HOST) ; user $(USER) $(PASS) ; cd $(DIR) ; lcd $(DIR) ;\
+	@lftp -c 'set ftp:ssl-allow no ; set ftp:ssl-protect-list no ;\
+open $(HOST) ; user $(USER) $(PASS) ; cd $(DIR) ; lcd $(DIR) ;\
 mirror -ev $(OPTS) -x \.git$$'
 
 .PHONY : push
 push :
-	@lftp -c 'open $(HOST) ; user $(USER) $(PASS) ; cd $(DIR) ; lcd $(DIR) ;\
+	@lftp -c 'set ftp:ssl-allow no ; set ftp:ssl-protect-list no ;\
+open $(HOST) ; user $(USER) $(PASS) ; cd $(DIR) ; lcd $(DIR) ;\
 mirror -Rev $(OPTS) -x \.git$$'
 
 .PHONY : git
