@@ -18,8 +18,8 @@ SITE ?= $(BASE)-site-$(DATE).tar.bz2
 .PHONY : all
 all :
 
-# Set OPTS='' to force everything to get reuploaded.
-OPTS ?= --ignore-time
+# Set OPTS="" to force everything to get reuploaded.
+OPTS ?= ""
 
 .PHONY : pull
 pull :
