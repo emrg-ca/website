@@ -3,13 +3,13 @@ SHELL := /bin/bash
 .PHONY : all
 all :
 
-#%.odt : %.doc
-	#@libreoffice --headless --convert-to odt $^
-#.PRECIOUS : %.odt
+.PRECIOUS : %.odt
+%.odt : %.doc
+	@libreoffice --headless --convert-to odt $^
 
-#%.odp : %.ppt
-	#@libreoffice --headless --convert-to odp $^
-#.PRECIOUS : %.odp
+.PRECIOUS : %.odp
+%.odp : %.ppt
+	@libreoffice --headless --convert-to odp $^
 
 %.pdf : %.odt
 	@libreoffice --headless --convert-to pdf $^
