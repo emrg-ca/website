@@ -11,7 +11,7 @@ GITDIR = $(ROOT)/.git/
 DOCDIR = $(ROOT)/$(DIR)/
 
 BASE ?= emrg
-DATE ?= $(shell date +%Y%m%d)
+DATE ?= $(shell date +%Y-%m-%d)
 GIT  ?= $(BASE)-git-$(DATE).tar.bz2
 SITE ?= $(BASE)-site-$(DATE).tar.bz2
 
