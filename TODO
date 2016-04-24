@@ -1,3 +1,10 @@
+Add this stuff to the makefile...
+
+convert -fill white -background black -pointsize 14 label:va3dgn@rac.ca \
+  va3dgn.png
+
+---
+
 continue to get source documents for existing pdf versions
 script to regenerate all html headers
 clean up directory structure some more
