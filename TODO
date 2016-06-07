@@ -3,6 +3,8 @@ Add this stuff to the makefile...
 convert -fill white -background black -pointsize 14 label:va3dgn@rac.ca \
   va3dgn.png
 
+convert -adjoin *.png multipage.pdf
+
 ---
 
 continue to get source documents for existing pdf versions
