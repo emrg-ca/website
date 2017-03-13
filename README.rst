@@ -39,3 +39,7 @@ Tag your changes::
     emrg-website$ git tag -a -m 'Snapshot for $(date +%Y-%m-%d)' \
         $(date +%Y-%m-%d)
     emrg-website$ git push --tags
+
+Generate new bitmaps for email addresses::
+
+    convert -background black -fill white -label ${email} ${callsign}.png
