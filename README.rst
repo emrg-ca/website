@@ -19,7 +19,6 @@ Make sure your local copy is up-to-date each time you start working on it::
     emrg-website$ git reset --hard origin/master  # forget local changes
     emrg-website$ git checkout master  # switch to master branch
     emrg-website$ git add . && git commit -m 'Fetch latest from ftp'
-    emrg-website$ git tag -a -m $(date +%Y-%m-%d)
     emrg-website$ git push  # push to git
     emrg-website$ make pull  # push to ftp
 
@@ -32,3 +31,9 @@ Upload your changes::
     emrg-website$ git add . && git commit -m 'I made changes to the website'
     emrg-website$ git push
     emrg-website$ make push
+
+Tag your changes::
+
+    emrg-website$ git tag -a -m 'Snapshot for $(date +%Y-%m-%d)' \
+        $(date +%Y-%m-%d)
+    emrg-website$ git push --tags
