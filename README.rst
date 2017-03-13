@@ -24,13 +24,15 @@ Make sure your local copy is up-to-date each time you start working on it::
 
 Upload your changes::
 
-    emrg-website$ git checkout -b new-branch-for-changes
+    emrg-website$ git checkout -b new-branch-with-changes  # make local branch
     # ...
     # Make a bunch of changes
     # ...
     emrg-website$ git add . && git commit -m 'I made changes to the website'
-    emrg-website$ git push
-    emrg-website$ make push
+    emrg-website$ git checkout master && git merge new-branch-with-changes
+    emrg-website$ git branch -D new-branch-with-changes  # remove local branch
+    emrg-website$ git push  # push to git
+    emrg-website$ make push  # push to ftp
 
 Tag your changes::
 
