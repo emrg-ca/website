@@ -12,20 +12,18 @@ all :
   "-env:UserInstallation=file:///tmp/libreofficebug"
 
 .PRECIOUS : %.odt
+%.odt : %.docx
+	@libreoffice --headless --convert-to odt $^ \
+  "-env:UserInstallation=file:///tmp/libreofficebug"
 %.odt : %.doc
 	@libreoffice --headless --convert-to odt $^ \
   "-env:UserInstallation=file:///tmp/libreofficebug"
 
-%.odt : %.docx
-	@libreoffice --headless --convert-to odt $^ \
-  "-env:UserInstallation=file:///tmp/libreofficebug"
-
 .PRECIOUS : %.odp
-%.odp : %.ppt
+%.odp : %.pptx
 	@libreoffice --headless --convert-to odp $^ \
   "-env:UserInstallation=file:///tmp/libreofficebug"
-
-%.odp : %.pptx
+%.odp : %.ppt
 	@libreoffice --headless --convert-to odp $^ \
   "-env:UserInstallation=file:///tmp/libreofficebug"
 
