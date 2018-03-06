@@ -15,32 +15,32 @@ DATE ?= $(shell date +%Y-%m-%d)
 GIT  ?= $(BASE)-git-$(DATE).tar.bz2
 SITE ?= $(BASE)-site-$(DATE).tar.bz2
 
-.PHONY : all
-all :
+.PHONY: all
+all:
 
 # Set OPTS="" to force everything to get reuploaded.
 OPTS ?= ""
 
-.PHONY : pull
-pull :
+.PHONY: pull
+pull:
 	@lftp -c 'set ftp:ssl-allow no ; set ftp:ssl-protect-list no ;\
 open $(HOST) ; user $(USER) $(PASS) ; cd $(DIR) ; lcd $(DIR) ;\
 mirror -ev $(OPTS) -x \.git$$'
 
-.PHONY : push
-push :
+.PHONY: push
+push:
 	@lftp -c 'set ftp:ssl-allow no ; set ftp:ssl-protect-list no ;\
 open $(HOST) ; user $(USER) $(PASS) ; cd $(DIR) ; lcd $(DIR) ;\
 mirror -Rev $(OPTS) -x \.git$$'
 
-.PHONY : git
-git :
+.PHONY: git
+git:
 	@rm -f $(GIT)
 	@pushd .. ; tar cvfj $(GIT) $(GITDIR) ; popd
 	@pushd .. ; mv $(GIT) $(ROOT) ; popd
 
-.PHONY : site
-site :
+.PHONY: site
+site:
 	@rm -f $(SITE)
 	@pushd .. ; tar cvfj $(SITE) $(DOCDIR) ; popd
 	@pushd .. ; mv $(SITE) $(ROOT) ; popd
